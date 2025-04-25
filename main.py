@@ -18,6 +18,7 @@ win.geometry("500x200")
 
 # State globals
 term = ""
+point = ""
 
 # Main frame
 
@@ -30,9 +31,11 @@ def main():
     # Select random word, and confirm selection based on score
     def getTerm():
         global term
+        global point
         while True:            
-            index = randint(0,len(words))
-            term = words[index] # <-- Select
+            point = randint(0,len(words))
+            #index = words[point]
+            term = words[point] # <-- Select
             
             if randint(0,int(term[2])+1) == 0: # <-- Confirm
                 break
@@ -42,6 +45,10 @@ def main():
     # Create label on top that has the term
     l1 = tk.Label(f1, text=term[0])
     l1.pack()
+
+    # Create label that displays score
+    l2 = tk.Label(f1,text=term[2])
+    l2.pack()
 
     ############## Buttons
 
@@ -60,16 +67,18 @@ def main():
         words[words.index(term)][2] = str(int(words[words.index(term)][2]) + 1)
         getTerm()
         l1.config(text=term[0])
+        l2.config(text=term[2])
     b2 = tk.Button(f1, text="Correct", command=correct)
     b2.pack()
 
     # Create button to input "I don't know this". Changes word
     def wrong():
         global words
-        if words[words.index(term)][2] != 0:
-            words[words.index(term)][2] = str(int(words[words.index(term)][2]) - 1)
+        if int(words[point][2]) > 0:
+            words[point][2] = str(int(words[point][2]) - 1)
         getTerm()
         l1.config(text=term[0])
+        l2.config(text=term[2])
     b3 = tk.Button(f1, text="Wrong", command=wrong)
     b3.pack()
 
