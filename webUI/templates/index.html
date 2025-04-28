@@ -5,13 +5,29 @@
     </head>
 
     <body>
+
+        <script>
+
+            var word = "{{word}}";
+            var trans = "{{translation}}";
+
+            function alter() {
+                if (document.getElementById("word").innerHTML == word) {
+                    document.getElementById("word").innerHTML = trans;
+                }
+                else {
+                    document.getElementById("word").innerHTML = word;
+                }
+            }
+
+        </script>
         
         <h1 id="word">{{word}}</h1>
-        <button type="button" id="switch">Switch</button>
+        <button type="button" id="switch" onclick="alter()">Switch</button>
         <button type="button" id="correct">Correct</button>
         <button type="button" id="wrong">Wrong</button>
 
     </body>
 
-    <script src="{{url_for('static', filename='practice.js')}}"></script>
+    <script src="/static/js/practice.js"></script>
 </html>

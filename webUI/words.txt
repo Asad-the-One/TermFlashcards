@@ -78,7 +78,7 @@ zuεεεto, at, forεεε0
 zwischenεεεbetweenεεε0
 gar nichtεεεnot at allεεε0
 nicht einmalεεεnot evenεεε0
-nicht mehrεεεno longerεεε0
+nicht mehrεεεno longerεεε1
 nichtsεεεnothingεεε0
 nieεεεneverεεε0
 niemalsεεεneverεεε0
@@ -232,7 +232,7 @@ ehemaligεεεformerεεε0
 einmalεεεonceεεε0
 endlichεεεfinallyεεε0
 erstεεε(at) first, onlyεεε0
-fastεεεalmost, nearlyεεε0
+fastεεεalmost, nearlyεεε1
 frühεεεearlyεεε0
 Gegenwart dieεεεpresent (time, tense)εεε0
 geradeεεεjustεεε0
@@ -271,7 +271,7 @@ plötzlichεεεsuddenlyεεε0
 regelmäßigεεεregularεεε0
 schnellεεεquick(ly)εεε0
 schonεεεalreadyεεε0
-seitεεεsince, for (length of time)εεε0
+seitεεεsince, for (length of time)εεε1
 seltenεεεseldom, rarelyεεε0
 sofortεεεimmediately, straight awayεεε0
 täglichεεεdailyεεε0
@@ -313,7 +313,7 @@ zurückεεεbackεεε0
 alle (-r, -s)εεεall, all theεεε0
 alle seinεεεto be all gone, to have run out (of)εεε0
 allesεεεeverythingεεε0
-anderer/andere/anderesεεεother, differentεεε0
+anderer/andere/anderesεεεother, differentεεε1
 beideεεεbothεεε0
 breitεεεwide, broadεεε0
 dickεεεthick, fatεεε0
@@ -387,7 +387,7 @@ regnenεεεto rainεεε0
 Schatten derεεεshadowεεε0
 schattigεεεshadyεεε0
 Schauer derεεεshowerεεε0
-scheinenεεεshineεεε0
+scheinenεεεshineεεε1
 schneienεεεto snowεεε0
 Sturm derεεεstormεεε0
 stürmischεεεstormyεεε0
@@ -558,7 +558,7 @@ Bindestrich derεεεdash, hyphenεεε0
 Daten (pl)εεεdataεεε0
 Drucker derεεεprinterεεε0
 eingebenεεεto enter (data into computer/phone)εεε0
-empfangenεεεto receiveεεε0
+empfangenεεεto receiveεεε1
 entwickelnεεεto developεεε0
 Entwicklung dieεεεdevelopmentεεε0
 funktionierenεεεto work, to functionεεε0
@@ -703,7 +703,7 @@ Senf derεεεmustardεεε0
 Serie dieεεεseriesεεε0
 Sitz(platz) derεεεseatεεε0
 sitzenεεεto sitεεε0
-spannendεεεexciting, thrillingεεε0
+spannendεεεexciting, thrillingεεε1
 Speisekarte dieεεεmenuεεε0
 Speisesaal derεεεdining hall, dining roomεεε0
 Spielzeug dasεεεtoy(s)εεε0
@@ -979,7 +979,7 @@ anonymεεεanonymousεεε0
 atmenεεεbreathεεε0
 aufgebenεεεto give upεεε0
 aufhörenεεεto stopεεε0
-Ausländer derεεεforeignerεεε0
+Ausländer derεεεforeignerεεε1
 ausländischεεεforeignεεε0
 betrunkenεεεdrunk, intoxicatedεεε0
 Bewegung dieεεεmovement; exerciseεεε0
@@ -1247,7 +1247,7 @@ Strand derεεεbeachεεε0
 Straßenkarte dieεεεroad mapεεε0
 Überfahrt dieεεεcrossing (sea)εεε0
 übernachtenεεεto stay overnightεεε0
-Übernachtung dieεεεovernight stayεεε0
+Übernachtung dieεεεovernight stayεεε1
 Übernachtung mit FrühstückεεεB&Bεεε0
 überquerenεεεto cross (road, sea)εεε0
 umsteigenεεεto change (means of transport)εεε0
@@ -1279,7 +1279,7 @@ lehrenεεεto teachεεε0
 Schulfach dasεεεschool subjectεεε0
 Schulleiter derεεεheadteacher, principalεεε0
 Stunde dieεεεlessonεεε0
-ungerechtεεεunfairεεε0
+ungerechtεεεunfairεεε1
 WerkenεεεDTεεε0
 1 = sehr gutεεεvery goodεεε0
 2 = gutεεεgoodεεε0
@@ -1364,7 +1364,7 @@ Sprachlabor dasεεεlanguage labεεε0
 Stundenplan derεεεtimetableεεε0
 Tafel dieεεεblack/white boardεεε0
 Turnhalle dieεεεsports hallεεε0
-übenεεεto practiseεεε0
+übenεεεto practiseεεε1
 Übung dieεεεexerciseεεε0
 Umkleideraum derεεεchanging roomεεε0
 umziehen (sich)εεεto get changed, change clothesεεε0
@@ -1447,7 +1447,7 @@ Karriere dieεεεcareerεεε0
 Kassierer derεεεcashier, bank clerkεεε0
 Klempner derεεεplumberεεε0
 Koch derεεεchef, cookεεε0
-Krankenschwester dieεεεnurseεεε0
+Krankenschwester dieεεεnurseεεε1
 LKW-Fahrer derεεεlorry driverεεε0
 Maler derεεεpainter, decoratorεεε0
 Metzger derεεεbutcherεεε0
@@ -1625,7 +1625,7 @@ Einwegflasche dieεεεnon-recyclable bottleεεε0
 Gleichheit dieεεεequalityεεε0
 Hauptverkehrszeit dieεεεrush hourεεε0
 menschlichεεεhuman, humaneεεε0
-Müllentsorgung dieεεεwaste disposalεεε0
+Müllentsorgung dieεεεwaste disposalεεε1
 Not dieεεεneedεεε0
 Obdachlosenheim dasεεεhostel for homeless peopleεεε0
 Rote Kreuz dasεεεRed Crossεεε0
