@@ -1,1691 +1,1691 @@
-ähnlichεεεsimilarεεε0
-andersεεεdifferent(ly)εεε0
-Gegenteil dasεεεoppositeεεε0
-hoch; höher; höchstεεεhigh; higher; highestεεε0
-im Großen und Ganzenεεεby and largeεεε0
-so ... wieεεεas ... asεεε0
-so viel(e) ... wieεεεas much/many ... asεεε0
-Unterschied derεεεdifferenceεεε0
-unterschiedlichεεεdifferentεεε0
-vergleichenεεεto compareεεε0
-Vergleich derεεεcomparisonεεε0
-verschiedenεεεdifferentεεε0
-viel; mehr; am meistenεεεmuch; more; mostεεε0
-wenigstensεεεat leastεεε0
-alsεεεwhenεεε0
-als obεεεas ifεεε0
-bevorεεεbeforeεεε0
-bisεεεuntil, toεεε0
-damitεεεso that, in order thatεεε0
-dennεεεas, sinceεεε0
-entweder ... oder ...εεεeither ... or ...εεε0
-nachdemεεεafter, afterwardsεεε0
-nicht nur ... sondern auchεεεnot only ... but alsoεεε0
-obεεεwhetherεεε0
-obwohlεεεalthoughεεε0
-seitdemεεεsinceεεε0
-sodass (so...dass)εεεso ... thatεεε0
-sowohl ... als auch ...εεεboth ... and...εεε0
-um ... zuεεε(in order) toεεε0
-weder ... nochεεεneither ... norεεε0
-abgesehen davonεεεapart from thisεεε0
-angenommen dassεεεassuming thatεεε0
-außerεεεbesides, apart from, exceptεεε0
-außerdemεεεbesides, furthermoreεεε0
-danachεεεafterwardsεεε0
-das heißt (d.h.)εεεthat is (ie)εεε0
-dennochεεεneverthelessεεε0
-deshalbεεεtherefore, because of thatεεε0
-deswegenεεεtherefore, because of thatεεε0
-dochεεεafter all, on the contrary, yesεεε0
-drittensεεεthirdlyεεε0
-eigentlichεεεactually, reallyεεε0
-erstensεεεfirstlyεεε0
-jedochεεεhoweverεεε0
-leiderεεεunfortunatelyεεε0
-natürlichεεεof course, naturallyεεε0
-ohne Zweifelεεεwithout a doubtεεε0
-schließlichεεεeventually, in the end, finallyεεε0
-sonstεεεotherwise, or elseεεε0
-sowiesoεεεanyway, anyhow, in any caseεεε0
-trotzdemεεεneverthelessεεε0
-vorausgesetzt dassεεεprovided thatεεε0
-zuerstεεε(at) firstεεε0
-zufälligεεεby chanceεεε0
-zweitensεεεsecondlyεεε0
-abεεεfromεεε0
-anεεεat, to, on, close byεεε0
-aufεεεon, upon, onto, on top ofεεε0
-ausεεεfrom, out ofεεε0
-beiεεεnear, atεεε0
-durchεεεthroughεεε0
-entlangεεεalongεεε0
-gegenεεεagainst, at about, aroundεεε0
-gegenüberεεεoppositeεεε0
-hinterεεεbehindεεε0
-nachεεεafter, to, according toεεε0
-nebenεεεnext toεεε0
-ohneεεεwithoutεεε0
-überεεεover, aboveεεε0
-umεεεaround, atεεε0
-unterεεεunder, belowεεε0
-vonεεεfrom, by, ofεεε0
-vorεεεin front of, before, agoεεε0
-vorbeiεεεover, past, byεεε0
-währendεεεduringεεε0
-wegenεεεbecause ofεεε0
-zuεεεto, at, forεεε0
-zwischenεεεbetweenεεε0
-gar nichtεεεnot at allεεε0
-nicht einmalεεεnot evenεεε0
-nicht mehrεεεno longerεεε1
-nichtsεεεnothingεεε0
-nieεεεneverεεε0
-niemalsεεεneverεεε0
-niemandεεεnobodyεεε0
-nirgend...εεεno...εεε0
-noch nichtεεεnot yet, still notεεε0
-überhaupt nichtεεεnot at allεεε0
-Buchstabe derεεεletterεεε0
-buchstabierenεεεto spellεεε0
-Dutzend dasεεεdozenεεε0
-Nummer dieεεεnumberεεε0
-Paar dasεεεpairεεε0
-Zahl dieεεεnumber, figure, digitεεε0
-Bargeld dasεεεcashεεε0
-ein 1/2/5 - Euro-Stückεεεa 1/2/5 Euro coinεεε0
-ein 10/20/50 - Euro-Scheinεεεa 10/20/50 Euro noteεεε0
-Geldschein derεεεnoteεεε0
-Geldstück dasεεεcoinεεε0
-Kleingeld dasεεεsmall changeεεε0
-Münze dieεεεcoinεεε0
-Taschengeld dasεεεpocket moneyεεε0
-wechselnεεεto changeεεε0
-Wann?εεεWhen?εεε0
-Warum?εεεWhy?εεε0
-Was für...?εεεWhat sort/type of...?εεε0
-Was?εεεWhat?εεε0
-Welcher/Welche/Welches?εεεWhich?εεε0
-Wer?εεεWho?εεε0
-Wie lang(e)?εεεHow long?εεε0
-Wie viel(e)?εεεHow much/many?εεε0
-Wie?εεεHow?εεε0
-Wieso?εεεWhy? How come ...?εεε0
-Wo?εεεWhere?εεε0
-Woher?εεεWhere from?εεε0
-Wohin?εεεWhere to?εεε0
-Womit?εεεWhat with?εεε0
-Alles Gute!εεεAll the bestεεε0
-Bis bald!εεεSee you laterεεε0
-Entschuldigung!εεεExcuse me/Sorryεεε0
-Frohe Weihnachten!εεεMerry Christmasεεε0
-Gern geschehen!εεεDon't mention itεεε0
-Herzlich willkommen!εεεWelcomeεεε0
-Herzlichen Glückwunsch!εεεCongratulationsεεε0
-Prost!εεεCheersεεε0
-Schöne Ferien!εεεHave a good/nice holidayεεε0
-Viel Glück!εεεGood luckεεε0
-Ahnung dieεεεidea, suspicionεεε0
-amüsantεεεamusing, funnyεεε0
-angenehmεεεpleasant, agreeableεεε0
-Angst habenεεεto be afraid/scaredεεε0
-ängstlichεεεanxious, apprehensiveεεε0
-ausgezeichnetεεεexcellentεεε0
-bequemεεεcomfortableεεε0
-bestimmtεεεdefinite(ly)/certain(ly)εεε0
-billigεεεcheapεεε0
-blödεεεstupidεεε0
-Blödsinn derεεεnonsense, rubbishεεε0
-böseεεεnaughty, evil, angryεεε0
-dafür (sein)εεε(to be) in favour of somethingεεε0
-dagegen (sein)εεε(to be) against/opposed to somethingεεε0
-das ist mir egalεεεit doesn't matter, it's all the same to meεεε0
-denkenεεεto thinkεεε0
-deprimiertεεεdepressedεεε0
-die Nase voll habenεεεto be fed up with somethingεεε0
-doofεεεstupidεεε0
-eindrucksvollεεεimpressiveεεε0
-einfachεεεsimple, simply, easyεεε0
-entsetzlichεεεterrible, awful, appallingεεε0
-es/das stimmt (nicht)εεεthat's (not) right/correctεεε0
-es gefällt mirεεεI like it (it pleases me)εεε0
-es kommt darauf an, ob ...εεεit depends on ..., whether ...εεε0
-es satt habenεεεto be fed up with somethingεεε0
-frohεεεhappy, glad, pleasedεεε0
-furchtbarεεεterrible, dreadful, awfulεεε0
-gefallenεεεto like, to pleaseεεε0
-gemütlichεεεcosy, comfortableεεε0
-genießenεεεto enjoyεεε0
-glaubenεεεto believeεεε0
-hassenεεεto hateεεε0
-herrlichεεεmarvellous, magnificent, gloriousεεε0
-hervorragendεεεexcellent, outstandingεεε0
-interessieren (sich für)εεεto be interested inεεε0
-keine Ahnung habenεεεto have no idea/no clueεεε0
-klasseεεεbrilliant, greatεεε0
-kompliziertεεεcomplicatedεεε0
-langweilen (sich)εεεto be boredεεε0
-liebεεεkind, lovely, dearεεε0
-liebenεεεto loveεεε0
-lustigεεεfunnyεεε0
-meinenεεεto thinkεεε0
-Meinung dieεεεopinionεεε0
-miesεεεrotten, lousyεεε0
-möglichεεεpossibleεεε0
-mühelosεεεeffortlessεεε0
-mühsamεεεarduous, laborious, with difficultyεεε0
-nützlichεεεusefulεεε0
-nutzlosεεεuselessεεε0
-primaεεεgreat, fantasticεεε0
-sauer seinεεεto be cross, annoyedεεε0
-schadeεεεit's a shame/pityεεε0
-schrecklichεεεterrible, horribleεεε0
-schwierigεεεdifficultεεε0
-sensibelεεεsensitiveεεε0
-sicherεεεsure, safeεεε0
-sogarεεεevenεεε0
-Spitze!εεεgreatεεε0
-teuerεεεexpensive, dearεεε0
-typischεεεtypical(ly)εεε0
-überraschtεεεsurprisedεεε0
-unglaublichεεεunbelievableεεε0
-unmöglichεεεimpossibleεεε0
-unsicherεεεunsureεεε0
-vielleichtεεεperhapsεεε0
-völligεεεcompletelyεεε0
-vorziehenεεεto preferεεε0
-wahrscheinlichεεεprobablyεεε0
-wichtigεεεimportantεεε0
-wirklichεεεreal(ly)εεε0
-wunderbarεεεwonderfulεεε0
-wunderschönεεεgorgeous, very beautifulεεε0
-wünschen (sich)εεεto wishεεε0
-zufriedenεεεcontent, happyεεε0
-zustimmenεεεto agreeεεε0
-Jahreszeit dieεεεseasonεεε0
-Jahr dasεεεyearεεε0
-Monat derεεεmonthεεε0
-genauεεεexactlyεεε0
-halbεεεhalfεεε0
-Mittag derεεεmiddayεεε0
-Mitternacht dieεεεmidnightεεε0
-nachgehenεεεto be slowεεε0
-pünktlichεεεpunctual, on timeεεε0
-spätεεεlateεεε0
-Uhr dieεεεclock, watch, o'clockεεε0
-Um wie viel Uhr?εεεat what time, when?εεε0
-Viertel dasεεεquarterεεε0
-vorgehenεεεto be fastεεε0
-Wie spät ist es?εεεWhat time is it?εεε0
-Wie viel Uhr ist es?εεεWhat time is it?εεε0
-Zeit dieεεεtimeεεε0
-ab und zuεεεnow and againεεε0
-Abend derεεεeveningεεε0
-abendsεεεin the eveningsεεε0
-Anfang derεεεbeginning, startεεε0
-Augenblick derεεεmoment, instantεεε0
-aus seinεεεto be over, finishedεεε0
-baldεεεsoonεεε0
-damalsεεεthen, in those daysεεε0
-Datum dasεεεdateεεε0
-ehemaligεεεformerεεε0
-einmalεεεonceεεε0
-endlichεεεfinallyεεε0
-erstεεε(at) first, onlyεεε0
-fastεεεalmost, nearlyεεε1
-frühεεεearlyεεε0
-Gegenwart dieεεεpresent (time, tense)εεε0
-geradeεεεjustεεε0
-gesternεεεyesterdayεεε0
-gewöhnlichεεεusually, normallyεεε0
-gleichεεεimmediately, in a minuteεεε0
-heuteεεεtodayεεε0
-heutzutageεεεnowadays, these daysεεε0
-im Vorausεεεin advanceεεε0
-immerεεεalwaysεεε0
-immer wiederεεεagain and againεεε0
-inzwischenεεεin the meantimeεεε0
-Jahrhundert dasεεεcenturyεεε0
-jetztεεεnowεεε0
-kürzlichεεεrecently, latelyεεε0
-langsamεεεslow(ly)εεε0
-letzter/letzte/letztesεεεlastεεε0
-Mal dasεεεtimeεεε0
-~malεεε~ timesεεε0
-manchmalεεεsometimesεεε0
-montagsεεεon Mondaysεεε0
-morgenεεεtomorrowεεε0
-Morgen derεεεmorningεεε0
-morgen frühεεεtomorrow morningεεε0
-morgensεεεin the mornings, every morningεεε0
-nachherεεεafterwardsεεε0
-Nachmittag derεεεafternoonεεε0
-nächster/nächste/nächstesεεεnextεεε0
-Nacht dieεεεnightεεε0
-nachtsεεεat nightεεε0
-neulichεεεrecently, the other dayεεε0
-noch einmalεεεonce again, once moreεεε0
-normalerweiseεεεnormally, usuallyεεε0
-nunεεεnowεεε0
-plötzlichεεεsuddenlyεεε0
-regelmäßigεεεregularεεε0
-schnellεεεquick(ly)εεε0
-schonεεεalreadyεεε0
-seitεεεsince, for (length of time)εεε1
-seltenεεεseldom, rarelyεεε0
-sofortεεεimmediately, straight awayεεε0
-täglichεεεdailyεεε0
-übermorgenεεεthe day after tomorrowεεε0
-Vergangenheit dieεεεpast (time, tense)εεε0
-(bis) vor kurzemεεε(until) recentlyεεε0
-vorgesternεεεthe day before yesterdayεεε0
-vorherεεεbefore(hand)εεε0
-Vormittag derεεεmorningεεε0
-Zeitpunkt derεεεpoint in timeεεε0
-zu Ende seinεεεto come to an end, to finishεεε0
-Zukunft dieεεεfuture (time, tense)εεε0
-außenεεεoutsideεεε0
-außerhalbεεεoutside ofεεε0
-daεεεhere, thereεεε0
-draußenεεεoutside, outdoorsεεε0
-drinnenεεεinside, indoorsεεε0
-drübenεεεover thereεεε0
-entferntεεεdistant, (far) awayεεε0
-geradeausεεεstraight aheadεεε0
-her~εεεfrom ~ (towards the speaker)εεε0
-hin und herεεεto and froεεε0
-hin und zurückεεεthere and back, return (ticket)εεε0
-hin~εεεaway ~ (from the speaker)εεε0
-in der Nähe vonεεεnearby, close toεεε0
-irgendwoεεεsomewhereεεε0
-liegenεεεto lie, to be situated (in)εεε0
-Meile dieεεεmileεεε0
-mitten inεεεin the middle ofεεε0
-nahεεεnearεεε0
-nirgendwoεεεnowhereεεε0
-obenεεεabove, upεεε0
-Ort derεεεplaceεεε0
-überallεεεeverywhereεεε0
-untenεεεat the bottom, below, downεεε0
-vorwärtsεεεforwardsεεε0
-weitεεεwide, farεεε0
-zurückεεεbackεεε0
-alle (-r, -s)εεεall, all theεεε0
-alle seinεεεto be all gone, to have run out (of)εεε0
-allesεεεeverythingεεε0
-anderer/andere/anderesεεεother, differentεεε1
-beideεεεbothεεε0
-breitεεεwide, broadεεε0
-dickεεεthick, fatεεε0
-Ding dasεεεthingεεε0
-Dose dieεεεcan, tinεεε0
-dünnεεεthinεεε0
-ein bisschenεεεa littleεεε0
-ein paarεεεa few, a coupleεεε0
-eine Mengeεεεa lot of, lotsεεε0
-einigeεεεsome, a fewεεε0
-einzelnεεεsingleεεε0
-etwaεεεabout, roughlyεεε0
-Flasche dieεεεbottleεεε0
-ganzεεεwhole, complete, quiteεεε0
-genugεεεenoughεεε0
-gewaltigεεεenormouslyεεε0
-Größe dieεεεsizeεεε0
-irgend...εεεsome...εεε0
-Karton derεεεcardboard boxεεε0
-Kasten derεεεbox, case, crateεεε0
-kaumεεεhardlyεεε0
-leerεεεemptyεεε0
-leichtεεεlightεεε0
-Maß dasεεεmeasureεεε0
-mehrereεεεseveralεεε0
-messenεεεto measureεεε0
-mindestensεεεat leastεεε0
-mittelgroßεεεmedium-sizedεεε0
-nochεεεstillεεε0
-Päckchen dasεεεsmall parcelεεε0
-Packung dieεεεpacket, packεεε0
-Paket dasεεεparcelεεε0
-Pfund dasεεεpoundεεε0
-proεεεperεεε0
-Schachtel dieεεεbox, packetεεε0
-Scheibe dieεεεsliceεεε0
-schwerεεεheavyεεε0
-Stück dasεεεpieceεεε0
-Tüte dieεεεbagεεε0
-ungefährεεεaboutεεε0
-vollεεεfullεεε0
-wenigεεεlittle, not muchεεε0
-wiegenεεεto weighεεε0
-Kreis derεεεcircleεεε0
-rundεεεroundεεε0
-viereckigεεεsquareεεε0
-bedecktεεεovercast, cloudyεεε0
-Blitz derεεεlightningεεε0
-Donner derεεεthunderεεε0
-es blitztεεεit's lightningεεε0
-es donnertεεεit's thunderingεεε0
-es hageltεεεit's hailingεεε0
-feuchtεεεdampεεε0
-frierenεεεto freezeεεε0
-frischεεεfreshεεε0
-Gewitter dasεεεthunderstormεεε0
-Grad derεεεdegreeεεε0
-Hagel derεεεhailεεε0
-heftigεεεheavy, severeεεε0
-heiterεεεbright, fine, clear, fairεεε0
-Himmel derεεεskyεεε0
-Klima dasεεεclimateεεε0
-kühlεεεcoolεεε0
-Mond derεεεmoonεεε0
-nassεεεwetεεε0
-Nebel derεεεfogεεε0
-nebeligεεεfoggyεεε0
-Niederschlag derεεεprecipitationεεε0
-Regen derεεεrainεεε0
-regnenεεεto rainεεε0
-Schatten derεεεshadowεεε0
-schattigεεεshadyεεε0
-Schauer derεεεshowerεεε0
-scheinenεεεshineεεε1
-schneienεεεto snowεεε0
-Sturm derεεεstormεεε0
-stürmischεεεstormyεεε0
-trockenεεεdryεεε0
-Wetterbericht derεεεweather reportεεε0
-Wettervorhersage dieεεεweather forecastεεε0
-Wolke dieεεεcloudεεε0
-wolkigεεεcloudyεεε0
-auf seinεεεto be openεεε0
-aufmachenεεεto openεεε0
-Ausfahrt dieεεεexit (motorway)εεε0
-Ausgang derεεεexit (building)εεε0
-besetztεεεoccupied, engagedεεε0
-Einfahrt dieεεεentry, entranceεεε0
-Eingang derεεεentrance (building)εεε0
-Eintritt derεεεadmissionεεε0
-freiεεεfreeεεε0
-geschlossenεεεclosedεεε0
-offenεεεopenεεε0
-öffnenεεεto openεεε0
-schließenεεεto closeεεε0
-verbotenεεεforbiddenεεε0
-zu seinεεεto be closedεεε0
-zumachenεεεto closeεεε0
-falschεεεfalse, wrong, incorrectεεε0
-Fehler derεεεmistake, errorεεε0
-Recht habenεεεto be rightεεε0
-richtigεεεright, correctεεε0
-Unrecht habenεεεto be wrongεεε0
-verbessernεεεto correct, to improveεεε0
-Verbesserung dieεεεcorrection, improvementεεε0
-Baumwolle dieεεεcottonεεε0
-bestehen ausεεεto consist of, to be made of/fromεεε0
-Eisen dasεεεironεεε0
-Holz dasεεεwoodεεε0
-Leder dasεεεleatherεεε0
-Pappe dieεεεcardboardεεε0
-Seide dieεεεsilkεεε0
-Stoff derεεεmaterialεεε0
-Wolle dieεεεwoolεεε0
-£ = Pfund dasεεε£ = pound sterlingεεε0
-AG = Arbeitsgruppe, Arbeitsgemeinschaftεεεwork group (extra-curricular, school)εεε0
-d.h. = das heißtεεεie = that isεεε0
-DB = Deutsche BahnεεεGerman Railwaysεεε0
-Dr = Doktor derεεεdoctorεεε0
-gem. = gemischtεεεmixedεεε0
-ICE = Inter-City-Express derεεεfast long-distance trainεεε0
-inkl. = inklusiveεεεincludedεεε0
-LKW = Lastkraftwagen derεεεHGV, lorryεεε0
-PLZ = Postleitzahl dieεεεpostcodeεεε0
-usw. = und so weiterεεεetc = and so onεεε0
-z.B. = zum Beispielεεεeg = for exampleεεε0
-alleinεεεaloneεεε0
-Alter dasεεεageεεε0
-altmodischεεεold-fashionedεεε0
-ärgern (sich)εεεto be annoyedεεε0
-auf die Nerven gehenεεεto get on one's nervesεεε0
-auskommen (mit)εεεto get on (with)εεε0
-aussehenεεεto look likeεεε0
-Ausweis derεεεidentity cardεεε0
-Bart derεεεbeardεεε0
-berühmtεεεfamousεεε0
-Besuch derεεεvisitεεε0
-besuchenεεεto visitεεε0
-bevorzugenεεεto favour, to preferεεε0
-bittenεεεto ask, to begεεε0
-Brieffreund derεεεpen-friendεεε0
-Brille dieεεεspectacles, glassesεεε0
-egoistischεεεselfishεεε0
-ehrlichεεεhonestεεε0
-Einzelkind dasεεεonly childεεε0
-Enkelkind dasεεεgrandchildεεε0
-entschuldigen (sich)εεεto apologiseεεε0
-erlaubenεεεto allowεεε0
-ernstεεεseriousεεε0
-Erwachsene der/dieεεεadult, grown-upεεε0
-Familienmitglied dasεεεmember of the familyεεε0
-frechεεεcheekyεεε0
-Freundschaft dieεεεfriendshipεεε0
-fühlen (sich)εεεto feelεεε0
-fütternεεεto feedεεε0
-geboren (am)εεεborn (on)εεε0
-Geburt dieεεεbirthεεε0
-Geburtsdatum dasεεεdate of birthεεε0
-Geburtsort derεεεplace of birthεεε0
-geduldigεεεpatientεεε0
-Gefühl dasεεεfeelingεεε0
-gemeinεεεmeanεεε0
-gern habenεεεto likeεεε0
-geschiedenεεεdivorcedεεε0
-Geschlecht dasεεεsex, genderεεε0
-getrenntεεεseparatedεεε0
-glattεεεstraight, smoothεεε0
-glücklichεεεhappyεεε0
-Grund derεεεreasonεεε0
-gut/schlecht gelauntεεεgood/bad temperedεεε0
-gute/schlechte Laune habenεεεto be in a good/bad moodεεε0
-hässlichεεεuglyεεε0
-heiratenεεεto marryεεε0
-hilfsbereitεεεhelpfulεεε0
-Hochzeit dieεεεweddingεεε0
-höflichεεεpoliteεεε0
-hübschεεεprettyεεε0
-humorlosεεεhumourless, no sense of humourεεε0
-humorvollεεεhumorous, wittyεεε0
-ich kann ... gut leidenεεεI like ... (very much)εεε0
-ich kann ... nicht leidenεεεI can't stand .../I don't like ...εεε0
-Jugendliche der/dieεεεyouthεεε0
-Junge derεεεboyεεε0
-kennenεεεto know (a person)εεε0
-kennen lernenεεεto get to knowεεε0
-komischεεεfunny, comical, strange, oddεεε0
-kümmern (sich um)εεεto look afterεεε0
-Kuss derεεεkissεεε0
-küssenεεεto kissεεε0
-lebenεεεto liveεεε0
-ledigεεεsingleεεε0
-Leute (pl)εεεpeopleεεε0
-lockigεεεcurlyεεε0
-Mensch derεεεhuman beingεεε0
-nennenεεεto name, to callεεε0
-nervenεεεto get on someone's nervesεεε0
-Ohr dasεεεearεεε0
-ordentlichεεεtidy, neatεεε0
-Persönlichkeit dieεεεpersonalityεεε0
-Reisepass derεεεpassportεεε0
-ruhigεεεquiet, calmεεε0
-schämen (sich)εεεto be/feel ashamedεεε0
-scheiden (sich lassen)εεεto get divorcedεεε0
-Schnurrbart derεεεmoustacheεεε0
-schüchternεεεshyεεε0
-selbstεεεselfεεε0
-selbstständigεεεindependentεεε0
-sorgen (für)εεεto care (for), to look afterεεε0
-Spitzname derεεεnick nameεεε0
-Stief~εεεstep ~εεε0
-stillεεεquietεεε0
-Streit derεεεargumentεεε0
-streiten (sich)εεεto quarrel, to argueεεε0
-strengεεεstrictεεε0
-Tätowierung dieεεεtattooεεε0
-Traum derεεεdreamεεε0
-traurigεεεsadεεε0
-trennen (sich)εεεto separateεεε0
-Typ derεεεtype, person, blokeεεε0
-unternehmungslustigεεεadventurous, like doing lots of thingsεεε0
-vergebenεεεto forgiveεεε0
-Verhältnis dasεεεrelationshipεεε0
-verheiratetεεεmarriedεεε0
-verloben (sich)εεεto get engagedεεε0
-verlobtεεεengaged (to someone)εεε0
-verstehen (sich mit)εεεto get on withεεε0
-Vorname derεεεfirst nameεεε0
-vorstellen (sich)εεεto introduce oneselfεεε0
-weinenεεεto cryεεε0
-witzigεεεfunnyεεε0
-Wohnort derεεεplace of livingεεε0
-Zahn derεεεtoothεεε0
-zivile Partnerschaft dieεεεcivil partnershipεεε0
-zusammenεεεtogetherεεε0
-Zwillinge (pl)εεεtwinsεεε0
-(aus) druckenεεεto print (out)εεε0
-Anrufbeantworter derεεε(telephone) answering machineεεε0
-anrufenεεεto call, to ring (phone)εεε0
-benutzen/benützenεεεto useεεε0
-beschreiben (sich)εεεto describe (oneself)εεε0
-Bindestrich derεεεdash, hyphenεεε0
-Daten (pl)εεεdataεεε0
-Drucker derεεεprinterεεε0
-eingebenεεεto enter (data into computer/phone)εεε0
-empfangenεεεto receiveεεε1
-entwickelnεεεto developεεε0
-Entwicklung dieεεεdevelopmentεεε0
-funktionierenεεεto work, to functionεεε0
-Gefahr dieεεεdangerεεε0
-gehören (zu)εεεto belong (to)εεε0
-herunterladenεεεdownloadεεε0
-hochladenεεεuploadεεε0
-Klingelton derεεεringtoneεεε0
-lehrreichεεεinformative, instructive, educationalεεε0
-löschenεεεto deleteεεε0
-Medien (pl)εεεmediaεεε0
-Missbrauch derεεεabuseεεε0
-missbrauchenεεεto abuseεεε0
-Netz dasεεεnetεεε0
-Netzwerk dasεεεnetworkεεε0
-peinlichεεεembarrassingεεε0
-Postfach dasεεεmail box (email)εεε0
-Punkt derεεεdotεεε0
-Rechner derεεεcalculator (phone)εεε0
-Risiko dasεεεriskεεε0
-schickenεεεto sendεεε0
-Schrägstrich derεεεforward slashεεε0
-Schutz derεεεprotectionεεε0
-simsenεεεto send an SMS/text messageεεε0
-soziale Medien (pl)εεεsocial mediaεεε0
-speichernεεεto save (data on computer)εεε0
-Startseite dieεεεhomepage (internet)εεε0
-teilenεεεto shareεεε0
-Unterstrich derεεεunderscoreεεε0
-WLANεεεWiFi/wifiεεε0
-Abenteuerfilm derεεεadventure filmεεε0
-amüsieren (sich)εεεto have fun, to enjoy oneselfεεε0
-Ananas dieεεεpineappleεεε0
-anfangenεεεto start, beginεεε0
-angelnεεεto fishεεε0
-Apfelsine dieεεεorangeεεε0
-Aprikose dieεεεapricotεεε0
-Badeanzug derεεεswim suitεεε0
-Badehose dieεεεswimming trunksεεε0
-bedienenεεεto serveεεε0
-Bedienung, bitte!εεεService, please!εεε0
-beschweren (sich)εεεto complainεεε0
-bestellenεεεto orderεεε0
-bezahlenεεεto payεεε0
-Bildschirm derεεεscreen (TV, computer)εεε0
-Birne dieεεεpearεεε0
-Blockflöte dieεεεrecorderεεε0
-Blumenkohl derεεεcauliflowerεεε0
-Bohne dieεεεbeanεεε0
-Braten derεεεroast meat, jointεεε0
-Bratwurst dieεεεfried sausageεεε0
-drückenεεεpressεεε0
-Durst derεεεthirstεεε0
-durstigεεεthirstyεεε0
-Ei dasεεεeggεεε0
-Eintrittsgeld dasεεεadmission feeεεε0
-Eintrittskarte dieεεε(admission) ticketεεε0
-Eisdiele dieεεεice cream parlourεεε0
-Eislaufen dasεεεice-skatingεεε0
-empfehlenεεεto recommendεεε0
-Erbse dieεεεpeaεεε0
-Erdbeere dieεεεstrawberryεεε0
-Essig derεεεvinegarεεε0
-fechtenεεεto fenceεεε0
-Federball derεεεbadmintonεεε0
-folgenεεεto followεεε0
-Freibad dasεεεoutdoor swimming poolεεε0
-Frikadelle dieεεεrissole, meat ballεεε0
-Fruchtsaft derεεεfruit juiceεεε0
-Gasthaus dasεεεinn, pubεεε0
-Gurke dieεεεcucumberεεε0
-Haferflocken (pl)εεε(porridge) oatsεεε0
-Hallenbad dasεεεindoor swimming poolεεε0
-hartεεεhardεεε0
-Hauptgericht dasεεεmain courseεεε0
-Herr Ober!εεεWaiter!εεε0
-Himbeere dieεεεraspberryεεε0
-holenεεεto fetch, to getεεε0
-Imbiss derεεεsnackεεε0
-Imbissbude dieεεεsnack bar, takeawayεεε0
-Imbissstand derεεεsnack bar, takeawayεεε0
-Interesse haben anεεεto be interested inεεε0
-Jugendklub derεεεyouth clubεεε0
-Kakao derεεεcocoaεεε0
-Kännchen dasεεεpot (tea, coffee)εεε0
-Kartoffel dieεεεpotatoεεε0
-Käse derεεεcheeseεεε0
-kegelnεεεbowling (nine pin)εεε0
-Keks derεεεbiscuitsεεε0
-Kirsche dieεεεcherryεεε0
-kletternεεεto climbεεε0
-Korbball derεεεnetballεεε0
-köstlichεεεdeliciousεεε0
-Kotelett dasεεεpork chopεεε0
-Krimi derεεεcrime (film/book), thrillerεεε0
-lachenεεεto laughεεε0
-laufenεεεto runεεε0
-leckerεεεtastyεεε0
-Leinwand dieεεε(big) screen (in cinema)εεε0
-Liebesfilm derεεεfilm with a love storyεεε0
-Lied dasεεεsongεεε0
-Lust haben etwas zu tunεεεto feel like doing somethingεεε0
-Mitglied dasεεεmemberεεε0
-Nachrichten (pl)εεεnewsεεε0
-Nachspeise dieεεεdessertεεε0
-Nachtisch derεεεdessertεεε0
-Nudeln (pl)εεεnoodles, pastaεεε0
-Nuss dieεεεnutεεε0
-Obst dasεεεfruitεεε0
-Öl dasεεεoilεεε0
-Pfeffer derεεεpepperεεε0
-Pfirsich derεεεpeachεεε0
-Pflaume dieεεεplumεεε0
-Pilz derεεεmushroomεεε0
-Praline dieεεεchocolate (in a box of chocolates)εεε0
-probierenεεεto try, to tasteεεε0
-Pute dieεεεturkeyεεε0
-Rechnung dieεεεbillεεε0
-rennenεεεto runεεε0
-riechenεεεto smellεεε0
-ringenεεεto wrestleεεε0
-rodelnεεεto go sledgingεεε0
-rohεεεrawεεε0
-Rollschuh laufenεεεto go roller skatingεεε0
-rudernεεεto rowεεε0
-Saft derεεεjuiceεεε0
-Sahne dieεεεcreamεεε0
-sammelnεεεto collectεεε0
-satt seinεεεto be full up, have had enough (to eat)εεε0
-Schach dasεεεchessεεε0
-scharfεεεspicy, hotεεε0
-Schaschlik dasεεεkebabεεε0
-schießenεεεto shootεεε0
-schmeckenεεεto tasteεεε0
-Schnellimbiss derεεεsnack barεεε0
-Segelboot dasεεεsailing boatεεε0
-segelnεεεto sailεεε0
-Seifenoper dieεεεsoap operaεεε0
-Selbstbedienung dieεεεself-serviceεεε0
-Sendung dieεεεprogrammeεεε0
-Senf derεεεmustardεεε0
-Serie dieεεεseriesεεε0
-Sitz(platz) derεεεseatεεε0
-sitzenεεεto sitεεε0
-spannendεεεexciting, thrillingεεε1
-Speisekarte dieεεεmenuεεε0
-Speisesaal derεεεdining hall, dining roomεεε0
-Spielzeug dasεεεtoy(s)εεε0
-Spinat derεεεspinachεεε0
-Sportart dieεεεtype of sportεεε0
-springenεεεto jumpεεε0
-Stadion dasεεεstadiumεεε0
-Stehcafé dasεεεsmall area with tables in a bakery or supermarket (but no seating)εεε0
-Stimme dieεεεvoiceεεε0
-strickenεεεto knitεεε0
-Suppe dieεεεsoupεεε0
-süßεεεsweetεεε0
-Tagesgericht dasεεεdish of the dayεεε0
-Tagesmenü dasεεεmenu of the dayεεε0
-tauchenεεεto diveεεε0
-Thunfisch derεεεtunaεεε0
-Tor dasεεεgoalεεε0
-Torte dieεεεgateauεεε0
-Trainingsanzug derεεεtrack suitεεε0
-Trainingsschuh derεεεsport shoe, trainersεεε0
-treffen (sich mit)εεεto meet (someone)εεε0
-Trinkgeld dasεεεtip (for waiter/waitress)εεε0
-turnenεεεto do gymnasticsεεε0
-unterhalten (sich)εεεto have a chatεεε0
-Unterhaltung dieεεεentertainmentεεε0
-Vegetarier derεεεvegetarianεεε0
-verlierenεεεto loseεεε0
-Volksmusik dieεεεfolk musicεεε0
-vorschlagenεεεto suggestεεε0
-Vorspeise dieεεεstarter (on menu)εεε0
-Vorstellung dieεεεshowing, performanceεεε0
-wandernεεεto hike, to walkεεε0
-weichεεεsoftεεε0
-(Wiener) Schnitzel dasεεεveal/pork cutlet (boneless)εεε0
-Weintraube dieεεεgrapeεεε0
-Werbung dieεεεadvert(isement)εεε0
-werfenεεεto throwεεε0
-Wettbewerb derεεεcompetitionεεε0
-Wurst dieεεεsausageεεε0
-zahlenεεεto payεεε0
-Zeichentrickfilm derεεεcartoonεεε0
-Zeitschrift dieεεεmagazineεεε0
-Zeitung dieεεεnewspaperεεε0
-Zeug dasεεεstuff, things, gearεεε0
-ziehenεεεpullεεε0
-Zitrone dieεεεlemonεεε0
-Zucker derεεεsugarεεε0
-Zuschauer derεεεspectator, member of the audienceεεε0
-Zwiebel dieεεεonionεεε0
-Adventskranz derεεεadvent wreathεεε0
-anzündenεεεto lightεεε0
-Aschermittwoch derεεεAsh Wednesdayεεε0
-bekommenεεεto get, to receiveεεε0
-dankenεεεto thankεεε0
-einladenεεεto inviteεεε0
-Einladung dieεεεinvitationεεε0
-Feier dieεεεcelebrationεεε0
-feiernεεεto celebrateεεε0
-Feiertag derεεεpublic holidayεεε0
-Fest dasεεεfestival, celebrationεεε0
-Feuerwerk dasεεεfireworksεεε0
-freuen (sich auf)εεεto look forward toεεε0
-freuen (sich über)εεεto be pleased about somethingεεε0
-Gast derεεεguestεεε0
-Gastgeber derεεεhostεεε0
-Geschenk dasεεεpresentεεε0
-Heiliger Abend (24 Dez)εεεChristmas Eveεεε0
-Heilige Drei Könige (6 Jan)εεεEpiphanyεεε0
-Karfreitag derεεεGood Fridayεεε0
-Karneval derεεεcarnivalεεε0
-Kerze dieεεεcandleεεε0
-kirchlichεεεreligiousεεε0
-Lebkuchen derεεεtype of gingerbreadεεε0
-Maifeiertag derεεεMay Dayεεε0
-Muttertag derεεεMother's Dayεεε0
-Neujahrstag der (1 Jan)εεεNew Year's Dayεεε0
-Osterei dasεεεEaster eggεεε0
-Osterhase derεεεEaster bunnyεεε0
-OsternεεεEasterεεε0
-PfingstenεεεWhitsuntideεεε0
-Sankt Nikolaus (Tag) (6 Dez)εεεSt Nicholas' Dayεεε0
-schmückenεεεto decorateεεε0
-SilvesterεεεNew Year's Eveεεε0
-Tag der Deutschen Einheit (3 Okt)εεεDay of German Unityεεε0
-Valentinstag der (14 Feb)εεεSt Valentine's Dayεεε0
-verkleiden (sich)εεεto dress up, to disguise oneself, to put on fancy dressεεε0
-versteckenεεεto hideεεε0
-WeihnachtenεεεChristmasεεε0
-Weihnachtsbaum derεεεChristmas treeεεε0
-Weihnachtslieder (pl)εεεChristmas carolsεεε0
-1. (erste) Weihnachtstag derεεεChristmas Dayεεε0
-2. (zweite) Weihnachtstag derεεεBoxing Dayεεε0
-Ampel dieεεεtraffic lightεεε0
-anbietenεεεto offerεεε0
-Angebot dasεεεofferεεε0
-anmachenεεεto turn/switch onεεε0
-anprobierenεεεto try on (clothes)εεε0
-Apotheke dieεεεpharmacyεεε0
-Apparat derεεεapparatus, appliance, gadgetεεε0
-aufräumenεεεto tidy (up)εεε0
-ausgebenεεεto spend (money)εεε0
-ausmachenεεεto turn/switch offεεε0
-Ausverkauf derεεεsaleεεε0
-ausverkauftεεεsold outεεε0
-Bäckerei dieεεεbakeryεεε0
-Backofen derεεεovenεεε0
-badenεεεto have a bathεεε0
-Badewanne dieεεεbathtubεεε0
-Bauernhaus dasεεεfarm houseεεε0
-Bauernhof derεεεfarmεεε0
-Baum derεεεtreeεεε0
-Berg derεεεmountainεεε0
-Bild dasεεεpictureεεε0
-Blume dieεεεflowerεεε0
-bratenεεεto fryεεε0
-Brücke dieεεεbridgeεεε0
-Bücherei dieεεεlibraryεεε0
-Buchhandlung dieεεεbook shopεεε0
-Bürgersteig derεεεpavementεεε0
-Dach dasεεεroofεεε0
-Dachboden derεεεattic, loftεεε0
-Decke dieεεεceiling; blanketεεε0
-Denkmal dasεεεmonumentεεε0
-Diele dieεεεhallεεε0
-Dom derεεεcathedralεεε0
-Doppelhaus dasεεεsemi-detached houseεεε0
-Drogerie dieεεεchemist'sεεε0
-Ecke dieεεεcornerεεε0
-eigenεεεownεεε0
-Einfamilienhaus dasεεεdetached houseεεε0
-einkaufenεεεto shopεεε0
-Einkaufskorb derεεεshopping basketεεε0
-Einkaufstasche dieεεεshopping bagεεε0
-Einkaufswagen derεεεshopping trolleyεεε0
-einpackenεεεto wrap (up)εεε0
-Einwohner derεεεinhabitantεεε0
-Elektrogeschäft dasεεεshop for electrical goodsεεε0
-Erdgeschoss dasεεεground floorεεε0
-Etage dieεεεfloor, storeyεεε0
-Etagenbett dasεεεbunk bedεεε0
-Fabrik dieεεεfactoryεεε0
-Feld dasεεεfieldεεε0
-flachεεεflatεεε0
-Fleischerei dieεεεbutcher'sεεε0
-Flur derεεεhall, coridorεεε0
-Fluss derεεεriverεεε0
-Friseur (salon) derεεεhairdresser'sεεε0
-Fußboden derεεεfloorεεε0
-Fußgängerzone dieεεεpedestrian precinctεεε0
-Gabel dieεεεforkεεε0
-Gasherd derεεεgas cookerεεε0
-Gebäude dasεεεbuildingεεε0
-Gegend dieεεεregion, areaεεε0
-günstigεεεreasonable, good value for moneyεεε0
-Hafen derεεεharbour, portεεε0
-Haltestelle dieεεεstop (bus, tram etc)εεε0
-Hauptbahnhof derεεεmain railway stationεεε0
-Hauptstadt dieεεεcapital cityεεε0
-Haushalt derεεεhouseholdεεε0
-Hecke dieεεεhedgeεεε0
-Helm derεεεhelmetεεε0
-Herd derεεεcooker, stoveεεε0
-Hochhaus dasεεεhigh rise block of flatsεεε0
-Hügel derεεεhillεεε0
-Insel dieεεεislandεεε0
-Juweliergeschäft dasεεεjeweller'sεεε0
-kaputtεεεbrokenεεε0
-Kasse dieεεεtill, cash pointεεε0
-Kaufhaus dasεεεdepartment storeεεε0
-Kirchturm derεεεchurch tower, spireεεε0
-Kleidergeschäft dasεεεclothes shopεεε0
-klingelnεεεto ring (bell)εεε0
-klopfenεεεto knock (door)εεε0
-kochenεεεto cookεεε0
-Kochfeld dasεεεhobεεε0
-Kommode dieεεεchest of drawersεεε0
-Konditorei dieεεεconfectioner'sεεε0
-Kopfkissen dasεεεpillowεεε0
-kostenlosεεεfree of chargeεεε0
-Kreuzung dieεεεcrossroadsεεε0
-Kühlschrank derεεεfridgeεεε0
-Kunde derεεεcustomerεεε0
-Kunstgalerie dieεεεart galleryεεε0
-Laden derεεεshopεεε0
-Land dasεεεland, countrysideεεε0
-Landschaft dieεεεlandscapeεεε0
-Lebensmittelgeschäft dasεεεgrocer'sεεε0
-leerenεεεto emptyεεε0
-legenεεεto lay, to put, to place (down)εεε0
-Licht dasεεεlightεεε0
-liefernεεεto deliverεεε0
-Löffel derεεεspoonεεε0
-mähenεεεto mowεεε0
-Mahlzeit dieεεεmeal, meal timeεεε0
-Marke dieεεεbrand, makeεεε0
-Marktplatz derεεεmarket placeεεε0
-Mauer dieεεεwall (outside)εεε0
-Messer dasεεεknifeεεε0
-Metzgerei dieεεεbutcher'sεεε0
-Miete dieεεεrentεεε0
-mietenεεεto rent, to hireεεε0
-Mikrowelle dieεεεmicrowave ovenεεε0
-Möbel (pl)εεεfurnitureεεε0
-Mofa dasεεε(motorised) bicycleεεε0
-Motorrad dasεεεmotor bikeεεε0
-nach Hauseεεε(going) homeεεε0
-nach obenεεεupstairsεεε0
-nach untenεεεdownstairsεεε0
-Nachbar derεεεneighbourεεε0
-Nachteil derεεεdisadvantageεεε0
-Nachttisch derεεεbedside cabinetεεε0
-Obst- und Gemüseladen derεεεgreen grocer'sεεε0
-Ordnung dieεεεorderεεε0
-Parkplatz derεεεparking placeεεε0
-Pflanze dieεεεplantεεε0
-Plakat dasεεεposter, billboardεεε0
-Platz derεεεplace; squareεεε0
-putzenεεεto cleanεεε0
-Quittung dieεεεreceiptεεε0
-Rasen derεεεlawnεεε0
-Regal dasεεεshelfεεε0
-Reihenhaus dasεεεterraced houseεεε0
-Reinigung dieεεεdry cleaner'sεεε0
-Rolltreppe dieεεεescalatorεεε0
-Sache dieεεεthing; stuffεεε0
-sauber machenεεεto cleanεεε0
-S-Bahn dieεεεsuburban (fast) railwayεεε0
-Schaufenster dasεεεshop windowεεε0
-Schlange stehenεεεto queueεεε0
-Schlüssel derεεεkeyεεε0
-Schrank derεεεcupboardεεε0
-Schreibwarengeschäft dasεεεstationery shopεεε0
-Schublade dieεεεdrawerεεε0
-Sonderangebot dasεεεspecial offerεεε0
-Sonst noch etwas?εεεAnything else?εεε0
-Spiegel derεεεmirrorεεε0
-Spielplatz derεεεplay groundεεε0
-Stadtrand derεεεoutskirts of a townεεε0
-steckenεεεto put (something into)εεε0
-stellenεεεto put, to place (upright)εεε0
-Straßenbahn dieεεεtramεεε0
-tankenεεεto fill up with petrol/dieselεεε0
-Tankstelle dieεεεpetrol stationεεε0
-Tasse dieεεεcupεεε0
-Teelöffel derεεεteaspoonεεε0
-Teller derεεεplateεεε0
-Teppich derεεεcarpetεεε0
-Tiefkühlschrank derεεεfreezerεεε0
-Tischdecke dieεεεtable clothεεε0
-Topf derεεεpanεεε0
-Treppe dieεεεstairsεεε0
-Turm derεεεtowerεεε0
-U-Bahn dieεεεunderground train, tubeεεε0
-umgeben vonεεεsurrounded byεεε0
-Umgebung dieεεεsurrounding areaεεε0
-umziehenεεεto move (house)εεε0
-Vorhang derεεεcurtainεεε0
-Vorort derεεεsuburbεεε0
-Vorteil derεεεadvantageεεε0
-Wald derεεεwood, forestεεε0
-Wand dieεεεwall (inside)εεε0
-Warenhaus dasεεεdepartment storeεεε0
-Waschbecken dasεεεwash basinεεε0
-Wiese dieεεεmeadowεεε0
-Wintergarten derεεεconservatoryεεε0
-Wohnblock derεεεblock of flatsεεε0
-Zebrastreifen derεεεzebra crossingεεε0
-abhängig sein vonεεεto be dependent onεεε0
-abnehmenεεεto lose weightεεε0
-Ader dieεεεveinεεε0
-Altenheim dasεεεold people's homeεεε0
-anonymεεεanonymousεεε0
-atmenεεεbreathεεε0
-aufgebenεεεto give upεεε0
-aufhörenεεεto stopεεε0
-Ausländer derεεεforeignerεεε1
-ausländischεεεforeignεεε0
-betrunkenεεεdrunk, intoxicatedεεε0
-Bewegung dieεεεmovement; exerciseεεε0
-bewusstlosεεεunconsciousεεε0
-Bewusstsein dasεεεconsciousnessεεε0
-Bio~εεεbiological ~, organicεεε0
-Blut dasεεεbloodεεε0
-brechenεεεto be sick; to breakεεε0
-Droge dieεεεdrugεεε0
-Drogenhändler derεεεdrug dealerεεε0
-Drogensüchtige der/dieεεεdrug addictεεε0
-Einwanderer derεεεimmigrantεεε0
-entspannen (sich)εεεto relaxεεε0
-Ernährung dieεεεfood, nourishment, nutritionεεε0
-Erste HilfeεεεFirst Aidεεε0
-es geht mir gut/schlechtεεεI am fine, well/not wellεεε0
-Fett dasεεεfatεεε0
-fettigεεεfattyεεε0
-fettleibigεεεobeseεεε0
-Feuerwehr dieεεεfire brigadeεεε0
-freiwilligεεεvoluntarilyεεε0
-Freiwillige der/dieεεεvolunteerεεε0
-gebrochenεεεbrokenεεε0
-gesundεεεhealthyεεε0
-Gesundheit dieεεεhealthεεε0
-Gewicht dasεεεweightεεε0
-gewinnenεεεto winεεε0
-haltenεεεto hold, to keepεεε0
-Hautfarbe dieεεεcolour of the skinεεε0
-Heim dasεεεhome, hostelεεε0
-helfenεεεto helpεεε0
-Herz dasεεεheartεεε0
-Hilfe dieεεεhelpεεε0
-hilflosεεεhelplessεεε0
-in Form seinεεεto be in form/in (good) shapeεεε0
-krankεεεillεεε0
-Krankenhaus dasεεεhospitalεεε0
-Krankenwagen derεεεambulanceεεε0
-Krankheit dieεεεillnessεεε0
-Krebs derεεεcancerεεε0
-Leber dieεεεliverεεε0
-Magen derεεεstomachεεε0
-Medikament dasεεεmedicineεεε0
-Preis derεεεprizeεεε0
-Rasse dieεεεraceεεε0
-Rassismus derεεεracismεεε0
-rassistischεεεracistεεε0
-rauchenεεεto smokeεεε0
-Ruhe dieεεεpeace, quiet, tranquillityεεε0
-Schmerz derεεεpain, acheεεε0
-...schmerzen habenεεεto have ...acheεεε0
-Sorge dieεεεworryεεε0
-sorgen fürεεεto care for, to look afterεεε0
-spendenεεεto donateεεε0
-Spritze dieεεεsyringe, injectionεεε0
-spritzenεεεto injectεεε0
-sterbenεεεto dieεεε0
-Sucht dieεεεaddictionεεε0
-süchtigεεεaddicted, addictiveεεε0
-Tierheim dasεεεanimal shelterεεε0
-totεεεdeadεεε0
-übel (mir ist)εεεI feel ill, sickεεε0
-Unfall derεεεaccidentεεε0
-Vene dieεεεveinεεε0
-Verkehrsunfall derεεεtraffic accidentεεε0
-verletzen (sich)εεεto be/get injuredεεε0
-Verletzung dieεεεinjuryεεε0
-weh tunεεεto hurtεεε0
-Wohltätigkeit dieεεεcharityεεε0
-Wohltätigkeitskonzert dasεεεcharity concertεεε0
-Wohltätigkeitsveranstaltung dieεεεcharity eventεεε0
-zunehmenεεεto put on weightεεε0
-Abfall derεεεrubbish, wasteεεε0
-Abfalleimer derεεεrubbish bin, litter binεεε0
-Abgase (pl)εεεexhaust fumesεεε0
-Achtung dieεεεrespect, esteemεεε0
-alternative Energiequelle dieεεεalternative source of energyεεε0
-Altpapier dasεεεwaste paperεεε0
-anbauenεεεto growεεε0
-arbeitslosεεεunemployedεεε0
-armεεεpoorεεε0
-Armut dieεεεpovertyεεε0
-aussterbenεεεto die outεεε0
-bedrohenεεεto threatenεεε0
-Benzin dasεεεpetrolεεε0
-Bettler derεεεbeggarεεε0
-Bevölkerung dieεεεpopulationεεε0
-biologischεεεbiological, organicεεε0
-Biomüll derεεεorganic wasteεεε0
-bleifreiεεεlead freeεεε0
-brauchenεεεto needεεε0
-Brennstoff derεεεfuelεεε0
-chemischεεεchemical(ly)εεε0
-Dieb derεεεthiefεεε0
-Diskriminierung dieεεεdiscriminationεεε0
-einsamεεεlonelyεεε0
-entsorgenεεεto dispose of (waste, refuse, sewage)εεε0
-erfrierenεεεto freeze to deathεεε0
-Fahrradweg derεεεbicycle track/laneεεε0
-FCKWsεεεCFCsεεε0
-fliehenεεεto fleeεεε0
-Flüchtling derεεεrefugeeεεε0
-Gebrauch derεεεusageεεε0
-gefährlichεεεdangerousεεε0
-Gesellschaft dieεεεsocietyεεε0
-Gewalt dieεεεviolenceεεε0
-gewalttätigεεεviolentεεε0
-heizenεεεto heatεεε0
-Heizung dieεεεheatingεεε0
-Kaugummi derεεεchewing gumεεε0
-keinen festen Wohnsitz habenεεεto have no fixed abodeεεε0
-Kohle dieεεεcoalεεε0
-Kraftwerk dasεεεpower stationεεε0
-Krieg derεεεwarεεε0
-Kunststoff derεεεman-made/synthetic materialεεε0
-Lärm derεεεnoiseεεε0
-lautεεεnoisyεεε0
-Leben dasεεεlifeεεε0
-Luft dieεεεairεεε0
-Luftverschmutzung dieεεεair pollutionεεε0
-Müll derεεεrefuse, waste, rubbishεεε0
-Mülltonne dieεεεdustbinεεε0
-obdachlosεεεhomelessεεε0
-öffentlichεεεpublic(ly)εεε0
-Opfer dasεεεvictimεεε0
-Ozonloch dasεεεhole in the ozone layerεεε0
-Ozonschicht dieεεεozone layerεεε0
-Pfand dasεεεdepositεεε0
-reichεεεrichεεε0
-reinigenεεεto cleanεεε0
-sauberεεεcleanεεε0
-Sauerstoff derεεεoxygenεεε0
-saure Regen derεεεacid rainεεε0
-Schaden derεεεdamageεεε0
-schädlichεεεharmfulεεε0
-Schale dieεεεskin (fruit), peel (potato), shell (egg)εεε0
-schmutzigεεεdirtyεεε0
-schützenεεεto protectεεε0
-schwachεεεweakεεε0
-Solarzelle dieεεεsolar cellεεε0
-Sonnenenergie dieεεεsolar energyεεε0
-Sozialhilfe dieεεεincome supportεεε0
-Sozialwohnung dieεεεcouncil flatεεε0
-sparenεεεto save, to conserveεεε0
-Spraydose dieεεεaerosolεεε0
-starkεεεstrongεεε0
-stehlenεεεto stealεεε0
-Suppenküche dieεεεsoup kitchenεεε0
-Treibhauseffekt derεεεgreenhouse effectεεε0
-überbevölkertεεεover-populatedεεε0
-ultraviolette Strahlen (pl)εεεultra-violet raysεεε0
-Umfrage dieεεεsurvey, opinion pollεεε0
-Umwelt dieεεεenvironmentεεε0
-umweltfeindlichεεεenvironmentally hostileεεε0
-umweltfreundlichεεεenvironmentally friendlyεεε0
-unterstützenεεεto supportεεε0
-Unterstützung dieεεεsupport, helpεεε0
-Verbrauch derεεεconsumptionεεε0
-Verbrechen dasεεεcrimeεεε0
-Verbrecher derεεεcriminalεεε0
-Verkehr derεεεtrafficεεε0
-Verkehrsmittel dasεεεmeans of transportεεε0
-Verpackung dieεεεpackagingεεε0
-verschmutzenεεεto polluteεεε0
-Verschmutzung dieεεεpollutionεεε0
-verschwindenεεεto disappearεεε0
-vertreibenεεεto drive out, to expelεεε0
-Wasserkraft dieεεεhydroelectric powerεεε0
-Wasserverschmutzung dieεεεwater pollutionεεε0
-wegwerfenεεεto throw awayεεε0
-weltweitεεεworldwideεεε0
-zerstörenεεεto destroyεεε0
-Zuhause dasεεεhome, houseεεε0
-abfahrenεεεto leave, to departεεε0
-abholenεεεto collect, to pick upεεε0
-ankommenεεεto arriveεεε0
-AsienεεεAsiaεεε0
-Ausflug derεεεtrip, excursionεεε0
-ausfüllenεεεto fill inεεε0
-Ausland dasεεεforeign country, abroadεεε0
-Aussicht dieεεεviewεεε0
-aussteigenεεεto alight, get off (bus)εεε0
-Bahnsteig derεεεplatformεεε0
-BelgienεεεBelgiumεεε0
-beliebtεεεpopularεεε0
-besichtigenεεεto sightsee, to visit, to have a lookεεε0
-bleibenεεεto stayεεε0
-Blick derεεεview, glanceεεε0
-Boot dasεεεboatεεε0
-Briefkasten derεεεletter boxεεε0
-Briefmarke dieεεεpostage stampεεε0
-Burg dieεεε(fortified) castleεεε0
-Campingplatz derεεεcampsiteεεε0
-Donau dieεεεDanubeεεε0
-Doppelzimmer dasεεεdouble roomεεε0
-einsteigenεεεto get in/onεεε0
-Einzelzimmer dasεεεsingle roomεεε0
-entwertenεεεto stamp/validate a ticketεεε0
-Erinnerung dieεεεmemoryεεε0
-erlebenεεεto experienceεεε0
-Ermäßigung dieεεεreductionεεε0
-Fähre dieεεεferryεεε0
-Fahrkarte dieεεεticketεεε0
-Fahrkartenautomat derεεεticket machineεεε0
-Fahrkartenschalter derεεεticket officeεεε0
-Fahrpreis derεεεfareεεε0
-Fahrradvermietung dieεεεbicycle hireεεε0
-Fahrt dieεεεjourneyεεε0
-Flug derεεεflightεεε0
-Flughafen derεεεairportεεε0
-Flugzeug dasεεεplaneεεε0
-Formular dasεεεformεεε0
-Fotoapparat derεεεcameraεεε0
-Führung dieεεεguided tourεεε0
-Gepäck dasεεεluggageεεε0
-Gleis dasεεεtrack, platformεεε0
-GriechenlandεεεGreeceεεε0
-Halbpension dieεεεhalf boardεεε0
-herumfahrenεεεto travel aroundεεε0
-Jugendherberge dieεεεyouth hostelεεε0
-Koffer derεεεsuitcaseεεε0
-KölnεεεCologneεεε0
-Küste dieεεεcoastεεε0
-Linie dieεεεline, number (tram, bus)εεε0
-Meer dasεεεseaεεε0
-Mittelmeer dasεεεMediterraneanεεε0
-Mosel dieεεεMoselleεεε0
-MünchenεεεMunichεεε0
-Notausgang derεεεemergency exitεεε0
-Öffnungszeiten (pl)εεεopening timesεεε0
-örtlichεεεlocalεεε0
-Ostsee dieεεεBaltic Seaεεε0
-Panne dieεεεbreakdown, puncture, flat tyreεεε0
-Passagier derεεεpassengerεεε0
-Pension dieεεε(small) hotelεεε0
-PolenεεεPolandεεε0
-Reise dieεεεjourney, trip, voyageεεε0
-Reisebüro dasεεεtravel agencyεεε0
-Reisebus derεεεcoachεεε0
-reisenεεεto travelεεε0
-Reisende der/dieεεεtravellerεεε0
-Reisescheck derεεεtraveller's chequeεεε0
-Reisetasche dieεεεtravel bagεεε0
-Reiseziel dasεεεdestinationεεε0
-Rhein derεεεRhineεεε0
-Richtung dieεεεdirectionεεε0
-Rundfahrt dieεεεround trip, tourεεε0
-RusslandεεεRussiaεεε0
-Schließfach dasεεεlockerεεε0
-Schloss dasεεεcastle, palaceεεε0
-See derεεεlakeεεε0
-See dieεεεseaεεε0
-seekrankεεεsea sickεεε0
-sehenswertεεεworth seeingεεε0
-Sehenswürdigkeit dieεεεtourist attraction, sightεεε0
-Sicherheitsgurt derεεεsafety belt, seat beltεεε0
-sonnen (sich)εεεto sunbatheεεε0
-Sonnenbrand derεεεsunburnεεε0
-Sonnencreme dieεεεsuntan lotionεεε0
-Speisewagen derεεεdining car, restaurant car (train)εεε0
-Stadtbummel derεεεstroll through town; window shoppingεεε0
-Stadtrundfahrt dieεεεsightseeing tour of a town/cityεεε0
-Stau derεεεtraffic jamεεε0
-Strand derεεεbeachεεε0
-Straßenkarte dieεεεroad mapεεε0
-Überfahrt dieεεεcrossing (sea)εεε0
-übernachtenεεεto stay overnightεεε0
-Übernachtung dieεεεovernight stayεεε1
-Übernachtung mit FrühstückεεεB&Bεεε0
-überquerenεεεto cross (road, sea)εεε0
-umsteigenεεεto change (means of transport)εεε0
-unterwegsεεεon the wayεεε0
-Urlaub derεεεholidayεεε0
-verbringenεεεto spend (time)εεε0
-verpassenεεεto missεεε0
-Verspätung dieεεεdelayεεε0
-Vollpension dieεεεfull boardεεε0
-warten (auf)εεεto wait (for)εεε0
-Wartesaal derεεεwaiting room (eg station)εεε0
-wegεεεawayεεε0
-Weg derεεεway, pathεεε0
-wegfahrenεεεto leave, to travel awayεεε0
-weggehenεεεto leave, to go awayεεε0
-weiterfahrenεεεto travel onεεε0
-wiederεεεagainεεε0
-WienεεεViennaεεε0
-Wohnwagen derεεεcaravanεεε0
-Zelt dasεεεtentεεε0
-zeltenεεεto campεεε0
-Zweibettzimmer dasεεεtwin bed roomεεε0
-Direktor derεεεheadteacher, principalεεε0
-Fach dasεεεsubjectεεε0
-Fremdsprache dieεεεforeign languageεεε0
-gerechtεεεfair, justεεε0
-klugεεεclever, intelligentεεε0
-lehrenεεεto teachεεε0
-Schulfach dasεεεschool subjectεεε0
-Schulleiter derεεεheadteacher, principalεεε0
-Stunde dieεεεlessonεεε0
-ungerechtεεεunfairεεε1
-WerkenεεεDTεεε0
-1 = sehr gutεεεvery goodεεε0
-2 = gutεεεgoodεεε0
-3 = befriedigendεεεsatisfactory, fairεεε0
-4 = ausreichendεεεsufficient, pass (just)εεε0
-5 = mangelhaftεεεpoor, unsatisfactory, failεεε0
-6 = ungenügendεεεextremely poor, inadequateεεε0
-Abschlusszeugnis dasεεεschool leaving certificateεεε0
-Anspitzer derεεεpencil sharpenerεεε0
-Antwort dieεεεanswerεεε0
-antwortenεεεto answerεεε0
-anziehen (sich)εεεto get dressedεεε0
-Anzug derεεεsuitεεε0
-aufpassenεεεto pay attentionεεε0
-aufstehenεεεto get upεεε0
-aufwachenεεεto wake upεεε0
-Aula dieεεε(assembly) hallεεε0
-Austausch derεεεexchangeεεε0
-Auswahl dieεεεchoiceεεε0
-ausziehen (sich)εεεto get undressedεεε0
-bestehenεεεto pass (exam/test)εεε0
-blau machenεεεto skip work, to play truantεεε0
-Bluse dieεεεblouseεεε0
-dauernεεεto lastεεε0
-Erfolg derεεεsuccessεεε0
-erfolgreichεεεsuccessfulεεε0
-erklärenεεεto explainεεε0
-erzählenεεεto tell, to narrateεεε0
-faulεεεlazyεεε0
-fehlenεεεto be missing, absentεεε0
-Ferien (pl)εεεholidaysεεε0
-fleißigεεεhard working, industriousεεε0
-Frage dieεεεquestionεεε0
-fragenεεεto askεεε0
-Ganztagsschule dieεεεschool that lasts all dayεεε0
-Gesamtschule dieεεεcomprehensive schoolεεε0
-gründenεεεto foundεεε0
-Grundschule dieεεεprimary schoolεεε0
-Gymnasium dasεεεgrammar schoolεεε0
-Halle dieεεεhallεεε0
-Hauptschule dieεεεsecondary schoolεεε0
-Hausmeister derεεεcaretakerεεε0
-Hemd dasεεεshirtεεε0
-Hose dieεεεtrousersεεε0
-Internat dasεεεboarding schoolεεε0
-Klassenarbeit dieεεεtestεεε0
-Klassenfahrt dieεεεschool tripεεε0
-Kleid dasεεεdressεεε0
-korrigierenεεεto correctεεε0
-Krawatte dieεεεtieεεε0
-Kreide dieεεεchalkεεε0
-Labor dasεεεlaboratoryεεε0
-Lehrerzimmer dasεεεstaff roomεεε0
-Lineal dasεεεrulerεεε0
-malenεεεto paintεεε0
-Mittagspause dieεεεlunch breakεεε0
-mündlichεεεorallyεεε0
-nachsitzenεεεto have a detentionεεε0
-Note dieεεεgrade, markεεε0
-Notendruck derεεεpressure to achieve good marks/gradesεεε0
-Pause dieεεεbreakεεε0
-plaudernεεεto chat, to talkεεε0
-Prüfung dieεεεexamεεε0
-rasieren (sich)εεεto shaveεεε0
-Raum derεεεroomεεε0
-Realschule dieεεεsecondary schoolεεε0
-rechnenεεεto calculate, to do sumsεεε0
-Regel dieεεεruleεεε0
-Rock derεεεskirtεεε0
-schaffenεεεto manage, to cope; to createεεε0
-Schal derεεεscarfεεε0
-schminken (sich)εεεto put on make-upεεε0
-schriftlichεεεwrittenεεε0
-Schüler derεεεstudentεεε0
-Schulhof derεεεschool yard, playgroundεεε0
-schwatzen/schwätzenεεεto chatterεεε0
-Seite dieεεεpageεεε0
-Sekretariat dasεεεoffice (school), receptionεεε0
-setzen (sich)εεεto sit downεεε0
-sitzen bleibenεεεto repeat a school yearεεε0
-Sprachlabor dasεεεlanguage labεεε0
-Stundenplan derεεεtimetableεεε0
-Tafel dieεεεblack/white boardεεε0
-Turnhalle dieεεεsports hallεεε0
-übenεεεto practiseεεε1
-Übung dieεεεexerciseεεε0
-Umkleideraum derεεεchanging roomεεε0
-umziehen (sich)εεεto get changed, change clothesεεε0
-Unterricht derεεεlessons; teachingεεε0
-unterrichtenεεεto teachεεε0
-verlassenεεεto leaveεεε0
-Versammlung dieεεεassemblyεεε0
-verstehenεεεto understandεεε0
-versuchenεεεto tryεεε0
-wählenεεεto chooseεεε0
-waschen (sich)εεεto have a washεεε0
-wiederholenεεεto repeatεεε0
-wissenεεεto knowεεε0
-Wörterbuch dasεεεdictionaryεεε0
-Zahnbürste dieεεεtoothbrushεεε0
-Zahnpasta dieεεεtoothpasteεεε0
-zeichnenεεεto drawεεε0
-Zeugnis dasεεεschool reportεεε0
-zuhörenεεεto listenεεε0
-(Azubi) = Auszubildende derεεεapprentice, traineeεεε0
-Abitur dasεεεA-level equivalentεεε0
-Abiturient derεεεperson doing the Abiturεεε0
-arbeitenεεεto workεεε0
-Arbeitspraktikum dasεεεwork experienceεεε0
-Ausbildung dieεεε(job) training, educationεεε0
-Ausbildungsplatz derεεεvacancy/place for a traineeεεε0
-Berufsberater derεεεcareers adviserεεε0
-Berufsschule dieεεεvocational training schoolεεε0
-bewerben (sich um)εεεto apply forεεε0
-Bewerbung dieεεεapplicationεεε0
-Brief derεεεletterεεε0
-Chef derεεεbossεεε0
-entscheiden (sich)εεεto decideεεε0
-Erfahrung dieεεεexperienceεεε0
-fertigεεεready, doneεεε0
-Führerschein derεεεdriving licenceεεε0
-Gelegenheit dieεεεopportunityεεε0
-Kollege derεεεcolleagueεεε0
-Kurs derεεεcourseεεε0
-Lebenslauf derεεεcurriculum vitae (CV)εεε0
-Lehre dieεεεapprenticeshipεεε0
-Lohn derεεεwageεεε0
-Mindestlohn derεεεminimum wageεεε0
-Nebenjob derεεεpart-time jobεεε0
-Oberstufe dieεεεequivalent to sixth-formεεε0
-Rat derεεεadviceεεε0
-Semester dasεεεtermεεε0
-Studienplatz derεεεuniversity placeεεε0
-Studium dasεεεstudiesεεε0
-theoretischεεεtheoreticalεεε0
-verdienenεεεto earnεεε0
-Angestellte der/dieεεεemployeeεεε0
-Apotheker derεεεpharmacistεεε0
-Arbeitszeit dieεεεwork hoursεεε0
-Bäcker derεεεbakerεεε0
-Bauarbeiter derεεεbuilding/construction workerεεε0
-bauenεεεto buildεεε0
-Bauer derεεεfarmerεεε0
-Beamte der/dieεεεcivil servantεεε0
-Beruf derεεεjob, occupationεεε0
-berufstätig (sein)εεε(to be) in workεεε0
-beschäftigt (sein)εεε(to be) busy, employedεεε0
-beschließenεεεto decideεεε0
-besitzenεεεto ownεεε0
-Besitzer derεεεownerεεε0
-Bezahlung dieεεεpaymentεεε0
-Briefträger derεεεpostmanεεε0
-Büro dasεεεofficeεεε0
-erfüllenεεεto fulfilεεε0
-Feuerwehrmann derεεεfire fighterεεε0
-Fleischer derεεεbutcherεεε0
-Friseur derεεεhairdresserεεε0
-ganztagsεεεall dayεεε0
-Gärtner derεεεgardenerεεε0
-Gehalt dasεεεsalaryεεε0
-Halbtagsarbeit dieεεεpart time employmentεεε0
-Hausfrau dieεεεhouse wifeεεε0
-im Freienεεεoutside, in the open airεεε0
-Karriere dieεεεcareerεεε0
-Kassierer derεεεcashier, bank clerkεεε0
-Klempner derεεεplumberεεε0
-Koch derεεεchef, cookεεε0
-Krankenschwester dieεεεnurseεεε1
-LKW-Fahrer derεεεlorry driverεεε0
-Maler derεεεpainter, decoratorεεε0
-Metzger derεεεbutcherεεε0
-Pfarrer derεεεparish priest, vicarεεε0
-Polizei dieεεεpoliceεεε0
-Polizist derεεεpolicemanεεε0
-Postbote derεεεpostmanεεε0
-Rentner derεεεpensionerεεε0
-Schauspieler derεεεactorεεε0
-Schichtarbeit dieεεεshift workεεε0
-suchenεεεto look for, to searchεεε0
-Teilzeitjob derεεεpart time jobεεε0
-Termin derεεεdate, appointmentεεε0
-Tischler derεεεcarpenterεεε0
-Verkäufer derεεεshop assistantεεε0
-Vollzeitarbeit dieεεεfull time workεεε0
-Vorstellungsgespräch dasεεεjob interviewεεε0
-Werkstatt dieεεεgarageεεε0
-Wunsch derεεεwishεεε0
-Alleinerziehende der/dieεεεsingle parentεεε0
-alleinstehendεεεsingleεεε0
-Angeber derεεεshow off, poserεεε0
-aufpassen (auf)εεεto look afterεεε0
-ausgeglichenεεεbalancedεεε0
-Bekannte der/dieεεεacquaintance, friendεεε0
-Beziehung dieεεεrelationshipεεε0
-Braut dieεεεbrideεεε0
-Bräutigam derεεεgroomεεε0
-Ehe dieεεεmarriageεεε0
-eifersüchtigεεεjealousεεε0
-einen (guten) Sinn für Humor habenεεεto have a (good) sense of humourεεε0
-eingebildetεεεconceitedεεε0
-Enkel derεεεgrandsonεεε0
-Enkelin dieεεεgranddaughterεεε0
-gleichgeschlechtliche Ehe/Partnerschaft dieεεεsame-sex marriage/partnershipεεε0
-großzügigεεεgenerousεεε0
-Junggeselle derεεεbachelorεεε0
-lebhaftεεεlivelyεεε0
-leidenεεεto sufferεεε0
-minderjährigεεε(to be a) minor, under legal ageεεε0
-miteinanderεεεwith one another, togetherεεε0
-Neffe derεεεnephewεεε0
-Nichte dieεεεnieceεεε0
-Schulter dieεεεshoulderεεε0
-Schwager derεεεbrother-in-lawεεε0
-Schwägerin dieεεεsister-in-lawεεε0
-Schwieger~εεε~ in-lawεεε0
-selbstbewusstεεεself-confident, self-assuredεεε0
-Trauung dieεεεwedding (ceremony)εεε0
-treuεεεfaithful, loyalεεε0
-Verlobte der/dieεεεfiancé(e)εεε0
-verrücktεεεcrazyεεε0
-Verwandte der/dieεεεrelativeεεε0
-Verwandtschaft dieεεεrelations (pl); relatives (pl)εεε0
-verzeihenεεεto forgiveεεε0
-volljährigεεε(to be) of ageεεε0
-Vorwahl(nummer) dieεεεlong distance code (telephone)εεε0
-zurechtkommen mitεεεto cope withεεε0
-zuverlässigεεεreliableεεε0
-zweifelnεεεto doubtεεε0
-Anwendungen (pl)εεεapplicationsεεε0
-Betriebssystem dasεεεoperating systemεεε0
-Einstellungen (pl)εεεsettingsεεε0
-leistungsstarkεεεpowerful (battery, processor)εεε0
-Sicherheit dieεεεsafetyεεε0
-aufnehmenεεεto recordεεε0
-aufregendεεεexcitingεεε0
-Bergsteigen dasεεεmountain climbingεεε0
-Dirigent derεεεconductorεεε0
-Ente dieεεεduckεεε0
-ermüdendεεεtiringεεε0
-Flachbildschirm derεεεflat screen TVεεε0
-Flimmerkiste dieεεεTV, box, tellyεεε0
-Forelle dieεεεtroutεεε0
-Gans dieεεεgooseεεε0
-Geige dieεεεviolinεεε0
-geräuchertεεεsmokedεεε0
-Halbfettmilch dieεεεsemi-skimmed milkεεε0
-hausgemachtεεεhome madeεεε0
-Honig derεεεhoneyεεε0
-Kalbfleisch dasεεεvealεεε0
-Knoblauch derεεεgarlicεεε0
-Lachs derεεεsalmonεεε0
-Lamm(fleisch) dasεεεlambεεε0
-Leichtathletik dieεεεathleticsεεε0
-Magermilch dieεεεskimmed milkεεε0
-Mehl dasεεεflourεεε0
-Querflöte dieεεεfluteεεε0
-Rennen dasεεεraceεεε0
-Rindfleisch dasεεεbeefεεε0
-Rührei dasεεεscrambled egg(s)εεε0
-Schlagzeug dasεεεpercussion, drumsεεε0
-Schlittschuh laufenεεεice skatingεεε0
-schmackhaftεεεTastyεεε0
-Schweinefleisch dasεεεporkεεε0
-Spiegelei dasεεεfried eggεεε0
-Sprudel(wasser) der (das)εεεfizzy mineral waterεεε0
-Truthahn derεεεturkeyεεε0
-Überraschung dieεεεsurpriseεεε0
-Untertitel derεεεsubtitleεεε0
-Verein derεεεclubεεε0
-Vergnügen dasεεεfun, enjoymentεεε0
-Vollmilch dieεεεfull fat milkεεε0
-würzigεεεspicyεεε0
-Aprilscherz derεεεApril fool's trickεεε0
-Gastfreundschaft dieεεεhospitalityεεε0
-Tag der Arbeit (1 Mai)εεεMay Dayεεε0
-Abstellraum derεεεstoreroomεεε0
-ausschaltenεεεto switch offεεε0
-Besteck dasεεεcutleryεεε0
-Brunnen derεεεwellεεε0
-Einbahnstraße dieεεεone way streetεεε0
-einschaltenεεεto switch onεεε0
-Essecke dieεεεeating area (eg in the kitchen)εεε0
-Fahrschein derεεεticket (public transport)εεε0
-Gerät dasεεεapplianceεεε0
-geräumigεεεroomy, spaciousεεε0
-Geschirr dasεεεcrockeryεεε0
-gratisεεεfree of chargeεεε0
-Grünanlage dieεεεgreen area, parkεεε0
-Mehrfamilienhaus dasεεεhouse for several families (three to six storeys)εεε0
-Möbelstück dasεεεpiece of furnitureεεε0
-~möglichkeitenεεε~ possibilitiesεεε0
-öffentliche Verkehrsmittel (pl)εεεpublic transportεεε0
-pleite (sein)εεεto be skintεεε0
-preiswertεεεgood value for money, cheapεεε0
-Rabatt derεεεdiscountεεε0
-Sackgasse dieεεεcul-de-sacεεε0
-Sparkasse dieεεε(savings) bankεεε0
-Stadtteil derεεεpart of the townεεε0
-Stadtviertel dasεεεdistrict, part of the townεεε0
-Stockwerk dasεεεfloor, storeyεεε0
-Strom derεεεelectricityεεε0
-Tiefkühltruhe dieεεεchest freezerεεε0
-Treppenhaus dasεεεstaircaseεεε0
-umsonstεεεfree of charge; in vainεεε0
-Umzug derεεεmove, moving (house)εεε0
-Wolkenkratzer derεεεsky-scraperεεε0
-abstinentεεεteetotalεεε0
-Atem derεεεbreathεεε0
-Atembeschwerden (pl)εεεbreathing difficultiesεεε0
-Bedürftige der/dieεεεsomebody in needεεε0
-begehenεεεto commit, to perpetrateεεε0
-benachteiligenεεεto disadvantageεεε0
-bewegen (sich)εεεto move; to get/take some exerciseεεε0
-Drogenberatungsstelle dieεεεadvice centre for drug addictsεεε0
-ehrenamtlichεεεhonorary, voluntarilyεεε0
-ein Mittel gegen ...εεεsomething, a medicine for ...εεε0
-einatmenεεεto breathe inεεε0
-Eingliederung dieεεεintegrationεεε0
-einnehmenεεεto take (in)εεε0
-Entziehungskur dieεεεrehab for drug addiction/alcoholismεεε0
-erbrechen (sich)εεεto be sickεεε0
-fettarmεεεlow in fatεεε0
-Gehirn dasεεεbrainεεε0
-lebendigεεεaliveεεε0
-magersüchtigεεεanorexicεεε0
-Mindesthaltbarkeitsdatum dasεεεbest before dateεεε0
-Nahrung dieεεεfood, nourishmentεεε0
-Rassenvorurteile (pl)εεεracial prejudiceεεε0
-Rassist derεεεracistεεε0
-Raucherhusten derεεεsmoker's coughεεε0
-Rauschgift dasεεεdrug, narcoticεεε0
-schadenεεεto damage, to harmεεε0
-Straftat dieεεεcriminal offence, actεεε0
-Süßigkeiten (pl)εεεsweetsεεε0
-Überdosis dieεεεoverdoseεεε0
-übergewichtigεεεoverweightεεε0
-vermeidenεεεto avoidεεε0
-Abholzung dieεεεdeforestationεεε0
-Auspuffgase (pl)εεεexhaust fumesεεε0
-bedürftigεεεneedyεεε0
-Düngemittel dasεεεfertiliserεεε0
-Einwegflasche dieεεεnon-recyclable bottleεεε0
-Gleichheit dieεεεequalityεεε0
-Hauptverkehrszeit dieεεεrush hourεεε0
-menschlichεεεhuman, humaneεεε0
-Müllentsorgung dieεεεwaste disposalεεε1
-Not dieεεεneedεεε0
-Obdachlosenheim dasεεεhostel for homeless peopleεεε0
-Rote Kreuz dasεεεRed Crossεεε0
-überschreitenεεεto exceedεεε0
-verpestenεεεto polluteεεε0
-verschwendenεεεto wasteεεε0
-verwendenεεεto useεεε0
-wiederverwertenεεεto recycleεεε0
-Wiederverwertung dieεεεrecyclingεεε0
-Andenken dasεεεsouvenir, mementoεεε0
-ansehen (sich etwas)εεεto have a look at somethingεεε0
-Ärmelkanal derεεε(English) Channelεεε0
-Aufenthalt derεεεstayεεε0
-Auskunft dieεεεinformationεεε0
-Autovermietung dieεεεcar rental (firm)εεε0
-beeilen (sich)εεεto hurryεεε0
-begleitenεεεto accompanyεεε0
-bestätigenεεεto confirmεεε0
-Bodensee derεεεLake Constanceεεε0
-Dampfer derεεεsteam boatεεε0
-Empfang derεεεwelcoming, reception (hotel)εεε0
-entdeckenεεεto discoverεεε0
-erinnern (sich)εεεto rememberεεε0
-Fahrradverleih derεεεbicycle hireεεε0
-GenfεεεGenevaεεε0
-Gepäckaufbewahrung dieεεεplace where one can leave luggage for payment (station, airport)εεε0
-Klimaanlage dieεεεair conditioningεεε0
-Prospekt derεεεbrochure, leafletεεε0
-Strandkorb derεεεwicker beach chairεεε0
-Verbindung dieεεεconnectionεεε0
-Verkehrsamt dasεεεtourist information officeεεε0
-wegen Betriebsferien (pl) geschlossenεεε(firm/shop/attraction) closed because of holidayεεε0
-Zoll derεεεcustomsεεε0
-Zuschlag derεεεextra charge, surchargeεεε0
-Fremdsprachenassistent derεεεlanguage assistantεεε0
-abschreibenεεεto copyεεε0
-abwesendεεεabsentεεε0
-anwesendεεεpresentεεε0
-Aussprache dieεεεpronunciationεεε0
-beantwortenεεεto answerεεε0
-durchfallenεεεto fail (exam/test)εεε0
-eine Frage stellenεεεto ask a questionεεε0
-Ergebnis dasεεεresult, outcomeεεε0
-Gang derεεεcorridorεεε0
-Leistung dieεεεachievementεεε0
-Leistungsdruck derεεεpressure to achieveεεε0
-Patrone dieεεεcartridgeεεε0
-Schere dieεεεscissorsεεε0
-schwänzenεεεto play truantεεε0
-Strafarbeit dieεεεpunishment, linesεεε0
-versetzt werdenεεεto be moved up to the next year groupεεε0
-einstellenεεεto employεεε0
-Fachschule dieεεεtechnical collegeεεε0
-Hauswirtschaftslehre dieεεεhome economicsεεε0
-Pflichtfach dasεεεcompulsory subjectεεε0
-Sozialkunde dieεεεsocial studies, politicsεεε0
-Wahlfach dasεεεoptional subjectεεε0
-Wirtschaftslehre dieεεεbusiness studies, economicsεεε0
-Arbeitgeber derεεεEmployerεεε0
-Besprechung dieεεεmeeting, discussionεεε0
-Betrieb derεεεbusiness, concern, worksεεε0
-kündigenεεεto hand in one's notice; to sack someoneεεε0
-vereinbarenεεεto agree, to arrangeεεε0
+ähnlich&&&similar&&&0
+anders&&&different(ly)&&&0
+Gegenteil das&&&opposite&&&0
+hoch; höher; höchst&&&high; higher; highest&&&0
+im Großen und Ganzen&&&by and large&&&0
+so ... wie&&&as ... as&&&0
+so viel(e) ... wie&&&as much/many ... as&&&0
+Unterschied der&&&difference&&&0
+unterschiedlich&&&different&&&0
+vergleichen&&&to compare&&&0
+Vergleich der&&&comparison&&&0
+verschieden&&&different&&&0
+viel; mehr; am meisten&&&much; more; most&&&0
+wenigstens&&&at least&&&0
+als&&&when&&&0
+als ob&&&as if&&&0
+bevor&&&before&&&0
+bis&&&until, to&&&0
+damit&&&so that, in order that&&&0
+denn&&&as, since&&&0
+entweder ... oder ...&&&either ... or ...&&&0
+nachdem&&&after, afterwards&&&0
+nicht nur ... sondern auch&&&not only ... but also&&&0
+ob&&&whether&&&0
+obwohl&&&although&&&0
+seitdem&&&since&&&0
+sodass (so...dass)&&&so ... that&&&0
+sowohl ... als auch ...&&&both ... and...&&&0
+um ... zu&&&(in order) to&&&0
+weder ... noch&&&neither ... nor&&&0
+abgesehen davon&&&apart from this&&&0
+angenommen dass&&&assuming that&&&0
+außer&&&besides, apart from, except&&&0
+außerdem&&&besides, furthermore&&&0
+danach&&&afterwards&&&0
+das heißt (d.h.)&&&that is (ie)&&&0
+dennoch&&&nevertheless&&&0
+deshalb&&&therefore, because of that&&&0
+deswegen&&&therefore, because of that&&&0
+doch&&&after all, on the contrary, yes&&&0
+drittens&&&thirdly&&&0
+eigentlich&&&actually, really&&&0
+erstens&&&firstly&&&0
+jedoch&&&however&&&0
+leider&&&unfortunately&&&0
+natürlich&&&of course, naturally&&&0
+ohne Zweifel&&&without a doubt&&&0
+schließlich&&&eventually, in the end, finally&&&0
+sonst&&&otherwise, or else&&&0
+sowieso&&&anyway, anyhow, in any case&&&0
+trotzdem&&&nevertheless&&&0
+vorausgesetzt dass&&&provided that&&&0
+zuerst&&&(at) first&&&0
+zufällig&&&by chance&&&0
+zweitens&&&secondly&&&0
+ab&&&from&&&0
+an&&&at, to, on, close by&&&0
+auf&&&on, upon, onto, on top of&&&0
+aus&&&from, out of&&&0
+bei&&&near, at&&&0
+durch&&&through&&&0
+entlang&&&along&&&0
+gegen&&&against, at about, around&&&0
+gegenüber&&&opposite&&&0
+hinter&&&behind&&&0
+nach&&&after, to, according to&&&0
+neben&&&next to&&&0
+ohne&&&without&&&0
+über&&&over, above&&&0
+um&&&around, at&&&0
+unter&&&under, below&&&0
+von&&&from, by, of&&&0
+vor&&&in front of, before, ago&&&0
+vorbei&&&over, past, by&&&0
+während&&&during&&&0
+wegen&&&because of&&&0
+zu&&&to, at, for&&&0
+zwischen&&&between&&&0
+gar nicht&&&not at all&&&0
+nicht einmal&&&not even&&&0
+nicht mehr&&&no longer&&&0
+nichts&&&nothing&&&0
+nie&&&never&&&0
+niemals&&&never&&&0
+niemand&&&nobody&&&0
+nirgend...&&&no...&&&0
+noch nicht&&&not yet, still not&&&0
+überhaupt nicht&&&not at all&&&0
+Buchstabe der&&&letter&&&0
+buchstabieren&&&to spell&&&0
+Dutzend das&&&dozen&&&0
+Nummer die&&&number&&&0
+Paar das&&&pair&&&0
+Zahl die&&&number, figure, digit&&&0
+Bargeld das&&&cash&&&0
+ein 1/2/5 - Euro-Stück&&&a 1/2/5 Euro coin&&&0
+ein 10/20/50 - Euro-Schein&&&a 10/20/50 Euro note&&&0
+Geldschein der&&&note&&&0
+Geldstück das&&&coin&&&0
+Kleingeld das&&&small change&&&0
+Münze die&&&coin&&&0
+Taschengeld das&&&pocket money&&&0
+wechseln&&&to change&&&0
+Wann?&&&When?&&&0
+Warum?&&&Why?&&&0
+Was für...?&&&What sort/type of...?&&&0
+Was?&&&What?&&&0
+Welcher/Welche/Welches?&&&Which?&&&0
+Wer?&&&Who?&&&0
+Wie lang(e)?&&&How long?&&&0
+Wie viel(e)?&&&How much/many?&&&0
+Wie?&&&How?&&&0
+Wieso?&&&Why? How come ...?&&&0
+Wo?&&&Where?&&&0
+Woher?&&&Where from?&&&0
+Wohin?&&&Where to?&&&0
+Womit?&&&What with?&&&0
+Alles Gute!&&&All the best&&&0
+Bis bald!&&&See you later&&&0
+Entschuldigung!&&&Excuse me/Sorry&&&0
+Frohe Weihnachten!&&&Merry Christmas&&&0
+Gern geschehen!&&&Don't mention it&&&0
+Herzlich willkommen!&&&Welcome&&&0
+Herzlichen Glückwunsch!&&&Congratulations&&&0
+Prost!&&&Cheers&&&0
+Schöne Ferien!&&&Have a good/nice holiday&&&0
+Viel Glück!&&&Good luck&&&0
+Ahnung die&&&idea, suspicion&&&0
+amüsant&&&amusing, funny&&&0
+angenehm&&&pleasant, agreeable&&&0
+Angst haben&&&to be afraid/scared&&&0
+ängstlich&&&anxious, apprehensive&&&0
+ausgezeichnet&&&excellent&&&0
+bequem&&&comfortable&&&0
+bestimmt&&&definite(ly)/certain(ly)&&&0
+billig&&&cheap&&&0
+blöd&&&stupid&&&0
+Blödsinn der&&&nonsense, rubbish&&&0
+böse&&&naughty, evil, angry&&&0
+dafür (sein)&&&(to be) in favour of something&&&0
+dagegen (sein)&&&(to be) against/opposed to something&&&0
+das ist mir egal&&&it doesn't matter, it's all the same to me&&&0
+denken&&&to think&&&0
+deprimiert&&&depressed&&&0
+die Nase voll haben&&&to be fed up with something&&&0
+doof&&&stupid&&&0
+eindrucksvoll&&&impressive&&&0
+einfach&&&simple, simply, easy&&&0
+entsetzlich&&&terrible, awful, appalling&&&0
+es/das stimmt (nicht)&&&that's (not) right/correct&&&0
+es gefällt mir&&&I like it (it pleases me)&&&0
+es kommt darauf an, ob ...&&&it depends on ..., whether ...&&&0
+es satt haben&&&to be fed up with something&&&0
+froh&&&happy, glad, pleased&&&0
+furchtbar&&&terrible, dreadful, awful&&&0
+gefallen&&&to like, to please&&&0
+gemütlich&&&cosy, comfortable&&&0
+genießen&&&to enjoy&&&0
+glauben&&&to believe&&&0
+hassen&&&to hate&&&0
+herrlich&&&marvellous, magnificent, glorious&&&0
+hervorragend&&&excellent, outstanding&&&0
+interessieren (sich für)&&&to be interested in&&&0
+keine Ahnung haben&&&to have no idea/no clue&&&0
+klasse&&&brilliant, great&&&0
+kompliziert&&&complicated&&&0
+langweilen (sich)&&&to be bored&&&0
+lieb&&&kind, lovely, dear&&&0
+lieben&&&to love&&&0
+lustig&&&funny&&&0
+meinen&&&to think&&&0
+Meinung die&&&opinion&&&0
+mies&&&rotten, lousy&&&0
+möglich&&&possible&&&0
+mühelos&&&effortless&&&0
+mühsam&&&arduous, laborious, with difficulty&&&0
+nützlich&&&useful&&&0
+nutzlos&&&useless&&&0
+prima&&&great, fantastic&&&0
+sauer sein&&&to be cross, annoyed&&&0
+schade&&&it's a shame/pity&&&0
+schrecklich&&&terrible, horrible&&&0
+schwierig&&&difficult&&&0
+sensibel&&&sensitive&&&0
+sicher&&&sure, safe&&&0
+sogar&&&even&&&0
+Spitze!&&&great&&&0
+teuer&&&expensive, dear&&&0
+typisch&&&typical(ly)&&&0
+überrascht&&&surprised&&&0
+unglaublich&&&unbelievable&&&0
+unmöglich&&&impossible&&&0
+unsicher&&&unsure&&&0
+vielleicht&&&perhaps&&&0
+völlig&&&completely&&&0
+vorziehen&&&to prefer&&&0
+wahrscheinlich&&&probably&&&0
+wichtig&&&important&&&0
+wirklich&&&real(ly)&&&0
+wunderbar&&&wonderful&&&0
+wunderschön&&&gorgeous, very beautiful&&&0
+wünschen (sich)&&&to wish&&&0
+zufrieden&&&content, happy&&&0
+zustimmen&&&to agree&&&0
+Jahreszeit die&&&season&&&0
+Jahr das&&&year&&&0
+Monat der&&&month&&&0
+genau&&&exactly&&&0
+halb&&&half&&&0
+Mittag der&&&midday&&&0
+Mitternacht die&&&midnight&&&0
+nachgehen&&&to be slow&&&0
+pünktlich&&&punctual, on time&&&0
+spät&&&late&&&0
+Uhr die&&&clock, watch, o'clock&&&0
+Um wie viel Uhr?&&&at what time, when?&&&0
+Viertel das&&&quarter&&&0
+vorgehen&&&to be fast&&&0
+Wie spät ist es?&&&What time is it?&&&0
+Wie viel Uhr ist es?&&&What time is it?&&&0
+Zeit die&&&time&&&0
+ab und zu&&&now and again&&&0
+Abend der&&&evening&&&0
+abends&&&in the evenings&&&0
+Anfang der&&&beginning, start&&&0
+Augenblick der&&&moment, instant&&&0
+aus sein&&&to be over, finished&&&0
+bald&&&soon&&&0
+damals&&&then, in those days&&&0
+Datum das&&&date&&&0
+ehemalig&&&former&&&0
+einmal&&&once&&&0
+endlich&&&finally&&&0
+erst&&&(at) first, only&&&0
+fast&&&almost, nearly&&&0
+früh&&&early&&&0
+Gegenwart die&&&present (time, tense)&&&0
+gerade&&&just&&&0
+gestern&&&yesterday&&&0
+gewöhnlich&&&usually, normally&&&0
+gleich&&&immediately, in a minute&&&0
+heute&&&today&&&0
+heutzutage&&&nowadays, these days&&&0
+im Voraus&&&in advance&&&0
+immer&&&always&&&0
+immer wieder&&&again and again&&&0
+inzwischen&&&in the meantime&&&0
+Jahrhundert das&&&century&&&0
+jetzt&&&now&&&0
+kürzlich&&&recently, lately&&&0
+langsam&&&slow(ly)&&&0
+letzter/letzte/letztes&&&last&&&0
+Mal das&&&time&&&0
+~mal&&&~ times&&&0
+manchmal&&&sometimes&&&0
+montags&&&on Mondays&&&0
+morgen&&&tomorrow&&&0
+Morgen der&&&morning&&&0
+morgen früh&&&tomorrow morning&&&0
+morgens&&&in the mornings, every morning&&&0
+nachher&&&afterwards&&&0
+Nachmittag der&&&afternoon&&&0
+nächster/nächste/nächstes&&&next&&&0
+Nacht die&&&night&&&0
+nachts&&&at night&&&0
+neulich&&&recently, the other day&&&0
+noch einmal&&&once again, once more&&&0
+normalerweise&&&normally, usually&&&0
+nun&&&now&&&0
+plötzlich&&&suddenly&&&0
+regelmäßig&&&regular&&&0
+schnell&&&quick(ly)&&&0
+schon&&&already&&&0
+seit&&&since, for (length of time)&&&0
+selten&&&seldom, rarely&&&0
+sofort&&&immediately, straight away&&&0
+täglich&&&daily&&&0
+übermorgen&&&the day after tomorrow&&&0
+Vergangenheit die&&&past (time, tense)&&&0
+(bis) vor kurzem&&&(until) recently&&&0
+vorgestern&&&the day before yesterday&&&0
+vorher&&&before(hand)&&&0
+Vormittag der&&&morning&&&0
+Zeitpunkt der&&&point in time&&&0
+zu Ende sein&&&to come to an end, to finish&&&0
+Zukunft die&&&future (time, tense)&&&0
+außen&&&outside&&&0
+außerhalb&&&outside of&&&0
+da&&&here, there&&&0
+draußen&&&outside, outdoors&&&0
+drinnen&&&inside, indoors&&&0
+drüben&&&over there&&&0
+entfernt&&&distant, (far) away&&&0
+geradeaus&&&straight ahead&&&0
+her~&&&from ~ (towards the speaker)&&&0
+hin und her&&&to and fro&&&0
+hin und zurück&&&there and back, return (ticket)&&&0
+hin~&&&away ~ (from the speaker)&&&0
+in der Nähe von&&&nearby, close to&&&0
+irgendwo&&&somewhere&&&0
+liegen&&&to lie, to be situated (in)&&&0
+Meile die&&&mile&&&0
+mitten in&&&in the middle of&&&0
+nah&&&near&&&0
+nirgendwo&&&nowhere&&&0
+oben&&&above, up&&&0
+Ort der&&&place&&&0
+überall&&&everywhere&&&0
+unten&&&at the bottom, below, down&&&0
+vorwärts&&&forwards&&&0
+weit&&&wide, far&&&0
+zurück&&&back&&&0
+alle (-r, -s)&&&all, all the&&&0
+alle sein&&&to be all gone, to have run out (of)&&&0
+alles&&&everything&&&0
+anderer/andere/anderes&&&other, different&&&0
+beide&&&both&&&0
+breit&&&wide, broad&&&0
+dick&&&thick, fat&&&0
+Ding das&&&thing&&&0
+Dose die&&&can, tin&&&0
+dünn&&&thin&&&0
+ein bisschen&&&a little&&&0
+ein paar&&&a few, a couple&&&0
+eine Menge&&&a lot of, lots&&&0
+einige&&&some, a few&&&0
+einzeln&&&single&&&0
+etwa&&&about, roughly&&&0
+Flasche die&&&bottle&&&0
+ganz&&&whole, complete, quite&&&0
+genug&&&enough&&&0
+gewaltig&&&enormously&&&0
+Größe die&&&size&&&0
+irgend...&&&some...&&&0
+Karton der&&&cardboard box&&&0
+Kasten der&&&box, case, crate&&&0
+kaum&&&hardly&&&0
+leer&&&empty&&&0
+leicht&&&light&&&0
+Maß das&&&measure&&&0
+mehrere&&&several&&&0
+messen&&&to measure&&&0
+mindestens&&&at least&&&0
+mittelgroß&&&medium-sized&&&0
+noch&&&still&&&0
+Päckchen das&&&small parcel&&&0
+Packung die&&&packet, pack&&&0
+Paket das&&&parcel&&&0
+Pfund das&&&pound&&&0
+pro&&&per&&&0
+Schachtel die&&&box, packet&&&0
+Scheibe die&&&slice&&&0
+schwer&&&heavy&&&0
+Stück das&&&piece&&&0
+Tüte die&&&bag&&&0
+ungefähr&&&about&&&0
+voll&&&full&&&0
+wenig&&&little, not much&&&0
+wiegen&&&to weigh&&&0
+Kreis der&&&circle&&&0
+rund&&&round&&&0
+viereckig&&&square&&&0
+bedeckt&&&overcast, cloudy&&&0
+Blitz der&&&lightning&&&0
+Donner der&&&thunder&&&0
+es blitzt&&&it's lightning&&&0
+es donnert&&&it's thundering&&&0
+es hagelt&&&it's hailing&&&0
+feucht&&&damp&&&0
+frieren&&&to freeze&&&0
+frisch&&&fresh&&&0
+Gewitter das&&&thunderstorm&&&0
+Grad der&&&degree&&&0
+Hagel der&&&hail&&&0
+heftig&&&heavy, severe&&&0
+heiter&&&bright, fine, clear, fair&&&0
+Himmel der&&&sky&&&0
+Klima das&&&climate&&&0
+kühl&&&cool&&&0
+Mond der&&&moon&&&0
+nass&&&wet&&&0
+Nebel der&&&fog&&&0
+nebelig&&&foggy&&&0
+Niederschlag der&&&precipitation&&&0
+Regen der&&&rain&&&0
+regnen&&&to rain&&&0
+Schatten der&&&shadow&&&0
+schattig&&&shady&&&0
+Schauer der&&&shower&&&0
+scheinen&&&shine&&&0
+schneien&&&to snow&&&0
+Sturm der&&&storm&&&0
+stürmisch&&&stormy&&&0
+trocken&&&dry&&&0
+Wetterbericht der&&&weather report&&&0
+Wettervorhersage die&&&weather forecast&&&0
+Wolke die&&&cloud&&&0
+wolkig&&&cloudy&&&0
+auf sein&&&to be open&&&0
+aufmachen&&&to open&&&0
+Ausfahrt die&&&exit (motorway)&&&0
+Ausgang der&&&exit (building)&&&0
+besetzt&&&occupied, engaged&&&0
+Einfahrt die&&&entry, entrance&&&0
+Eingang der&&&entrance (building)&&&0
+Eintritt der&&&admission&&&0
+frei&&&free&&&0
+geschlossen&&&closed&&&0
+offen&&&open&&&0
+öffnen&&&to open&&&0
+schließen&&&to close&&&0
+verboten&&&forbidden&&&0
+zu sein&&&to be closed&&&0
+zumachen&&&to close&&&0
+falsch&&&false, wrong, incorrect&&&0
+Fehler der&&&mistake, error&&&0
+Recht haben&&&to be right&&&0
+richtig&&&right, correct&&&0
+Unrecht haben&&&to be wrong&&&0
+verbessern&&&to correct, to improve&&&0
+Verbesserung die&&&correction, improvement&&&0
+Baumwolle die&&&cotton&&&0
+bestehen aus&&&to consist of, to be made of/from&&&0
+Eisen das&&&iron&&&0
+Holz das&&&wood&&&0
+Leder das&&&leather&&&0
+Pappe die&&&cardboard&&&0
+Seide die&&&silk&&&0
+Stoff der&&&material&&&0
+Wolle die&&&wool&&&0
+£ = Pfund das&&&£ = pound sterling&&&0
+AG = Arbeitsgruppe, Arbeitsgemeinschaft&&&work group (extra-curricular, school)&&&0
+d.h. = das heißt&&&ie = that is&&&0
+DB = Deutsche Bahn&&&German Railways&&&0
+Dr = Doktor der&&&doctor&&&0
+gem. = gemischt&&&mixed&&&0
+ICE = Inter-City-Express der&&&fast long-distance train&&&0
+inkl. = inklusive&&&included&&&0
+LKW = Lastkraftwagen der&&&HGV, lorry&&&0
+PLZ = Postleitzahl die&&&postcode&&&0
+usw. = und so weiter&&&etc = and so on&&&0
+z.B. = zum Beispiel&&&eg = for example&&&0
+allein&&&alone&&&0
+Alter das&&&age&&&0
+altmodisch&&&old-fashioned&&&0
+ärgern (sich)&&&to be annoyed&&&0
+auf die Nerven gehen&&&to get on one's nerves&&&0
+auskommen (mit)&&&to get on (with)&&&0
+aussehen&&&to look like&&&0
+Ausweis der&&&identity card&&&0
+Bart der&&&beard&&&0
+berühmt&&&famous&&&0
+Besuch der&&&visit&&&0
+besuchen&&&to visit&&&0
+bevorzugen&&&to favour, to prefer&&&0
+bitten&&&to ask, to beg&&&0
+Brieffreund der&&&pen-friend&&&0
+Brille die&&&spectacles, glasses&&&0
+egoistisch&&&selfish&&&0
+ehrlich&&&honest&&&0
+Einzelkind das&&&only child&&&0
+Enkelkind das&&&grandchild&&&0
+entschuldigen (sich)&&&to apologise&&&0
+erlauben&&&to allow&&&0
+ernst&&&serious&&&0
+Erwachsene der/die&&&adult, grown-up&&&0
+Familienmitglied das&&&member of the family&&&0
+frech&&&cheeky&&&0
+Freundschaft die&&&friendship&&&0
+fühlen (sich)&&&to feel&&&0
+füttern&&&to feed&&&0
+geboren (am)&&&born (on)&&&0
+Geburt die&&&birth&&&0
+Geburtsdatum das&&&date of birth&&&0
+Geburtsort der&&&place of birth&&&0
+geduldig&&&patient&&&0
+Gefühl das&&&feeling&&&0
+gemein&&&mean&&&0
+gern haben&&&to like&&&0
+geschieden&&&divorced&&&0
+Geschlecht das&&&sex, gender&&&0
+getrennt&&&separated&&&0
+glatt&&&straight, smooth&&&0
+glücklich&&&happy&&&0
+Grund der&&&reason&&&0
+gut/schlecht gelaunt&&&good/bad tempered&&&0
+gute/schlechte Laune haben&&&to be in a good/bad mood&&&0
+hässlich&&&ugly&&&0
+heiraten&&&to marry&&&0
+hilfsbereit&&&helpful&&&0
+Hochzeit die&&&wedding&&&0
+höflich&&&polite&&&0
+hübsch&&&pretty&&&0
+humorlos&&&humourless, no sense of humour&&&0
+humorvoll&&&humorous, witty&&&0
+ich kann ... gut leiden&&&I like ... (very much)&&&0
+ich kann ... nicht leiden&&&I can't stand .../I don't like ...&&&0
+Jugendliche der/die&&&youth&&&0
+Junge der&&&boy&&&0
+kennen&&&to know (a person)&&&0
+kennen lernen&&&to get to know&&&0
+komisch&&&funny, comical, strange, odd&&&0
+kümmern (sich um)&&&to look after&&&0
+Kuss der&&&kiss&&&0
+küssen&&&to kiss&&&0
+leben&&&to live&&&0
+ledig&&&single&&&0
+Leute (pl)&&&people&&&0
+lockig&&&curly&&&0
+Mensch der&&&human being&&&0
+nennen&&&to name, to call&&&0
+nerven&&&to get on someone's nerves&&&0
+Ohr das&&&ear&&&0
+ordentlich&&&tidy, neat&&&0
+Persönlichkeit die&&&personality&&&0
+Reisepass der&&&passport&&&0
+ruhig&&&quiet, calm&&&0
+schämen (sich)&&&to be/feel ashamed&&&0
+scheiden (sich lassen)&&&to get divorced&&&0
+Schnurrbart der&&&moustache&&&0
+schüchtern&&&shy&&&0
+selbst&&&self&&&0
+selbstständig&&&independent&&&0
+sorgen (für)&&&to care (for), to look after&&&0
+Spitzname der&&&nick name&&&0
+Stief~&&&step ~&&&0
+still&&&quiet&&&0
+Streit der&&&argument&&&0
+streiten (sich)&&&to quarrel, to argue&&&0
+streng&&&strict&&&0
+Tätowierung die&&&tattoo&&&0
+Traum der&&&dream&&&0
+traurig&&&sad&&&0
+trennen (sich)&&&to separate&&&0
+Typ der&&&type, person, bloke&&&0
+unternehmungslustig&&&adventurous, like doing lots of things&&&0
+vergeben&&&to forgive&&&0
+Verhältnis das&&&relationship&&&0
+verheiratet&&&married&&&0
+verloben (sich)&&&to get engaged&&&0
+verlobt&&&engaged (to someone)&&&0
+verstehen (sich mit)&&&to get on with&&&0
+Vorname der&&&first name&&&0
+vorstellen (sich)&&&to introduce oneself&&&0
+weinen&&&to cry&&&0
+witzig&&&funny&&&0
+Wohnort der&&&place of living&&&0
+Zahn der&&&tooth&&&0
+zivile Partnerschaft die&&&civil partnership&&&0
+zusammen&&&together&&&0
+Zwillinge (pl)&&&twins&&&0
+(aus) drucken&&&to print (out)&&&0
+Anrufbeantworter der&&&(telephone) answering machine&&&0
+anrufen&&&to call, to ring (phone)&&&0
+benutzen/benützen&&&to use&&&0
+beschreiben (sich)&&&to describe (oneself)&&&0
+Bindestrich der&&&dash, hyphen&&&0
+Daten (pl)&&&data&&&0
+Drucker der&&&printer&&&0
+eingeben&&&to enter (data into computer/phone)&&&0
+empfangen&&&to receive&&&0
+entwickeln&&&to develop&&&0
+Entwicklung die&&&development&&&0
+funktionieren&&&to work, to function&&&0
+Gefahr die&&&danger&&&0
+gehören (zu)&&&to belong (to)&&&0
+herunterladen&&&download&&&0
+hochladen&&&upload&&&0
+Klingelton der&&&ringtone&&&0
+lehrreich&&&informative, instructive, educational&&&0
+löschen&&&to delete&&&0
+Medien (pl)&&&media&&&0
+Missbrauch der&&&abuse&&&0
+missbrauchen&&&to abuse&&&0
+Netz das&&&net&&&0
+Netzwerk das&&&network&&&0
+peinlich&&&embarrassing&&&0
+Postfach das&&&mail box (email)&&&0
+Punkt der&&&dot&&&0
+Rechner der&&&calculator (phone)&&&0
+Risiko das&&&risk&&&0
+schicken&&&to send&&&0
+Schrägstrich der&&&forward slash&&&0
+Schutz der&&&protection&&&0
+simsen&&&to send an SMS/text message&&&0
+soziale Medien (pl)&&&social media&&&0
+speichern&&&to save (data on computer)&&&0
+Startseite die&&&homepage (internet)&&&0
+teilen&&&to share&&&0
+Unterstrich der&&&underscore&&&0
+WLAN&&&WiFi/wifi&&&0
+Abenteuerfilm der&&&adventure film&&&0
+amüsieren (sich)&&&to have fun, to enjoy oneself&&&0
+Ananas die&&&pineapple&&&0
+anfangen&&&to start, begin&&&0
+angeln&&&to fish&&&0
+Apfelsine die&&&orange&&&0
+Aprikose die&&&apricot&&&0
+Badeanzug der&&&swim suit&&&0
+Badehose die&&&swimming trunks&&&0
+bedienen&&&to serve&&&0
+Bedienung, bitte!&&&Service, please!&&&0
+beschweren (sich)&&&to complain&&&0
+bestellen&&&to order&&&0
+bezahlen&&&to pay&&&0
+Bildschirm der&&&screen (TV, computer)&&&0
+Birne die&&&pear&&&0
+Blockflöte die&&&recorder&&&0
+Blumenkohl der&&&cauliflower&&&0
+Bohne die&&&bean&&&0
+Braten der&&&roast meat, joint&&&0
+Bratwurst die&&&fried sausage&&&0
+drücken&&&press&&&0
+Durst der&&&thirst&&&0
+durstig&&&thirsty&&&0
+Ei das&&&egg&&&0
+Eintrittsgeld das&&&admission fee&&&0
+Eintrittskarte die&&&(admission) ticket&&&0
+Eisdiele die&&&ice cream parlour&&&0
+Eislaufen das&&&ice-skating&&&0
+empfehlen&&&to recommend&&&0
+Erbse die&&&pea&&&0
+Erdbeere die&&&strawberry&&&0
+Essig der&&&vinegar&&&0
+fechten&&&to fence&&&0
+Federball der&&&badminton&&&0
+folgen&&&to follow&&&0
+Freibad das&&&outdoor swimming pool&&&0
+Frikadelle die&&&rissole, meat ball&&&0
+Fruchtsaft der&&&fruit juice&&&0
+Gasthaus das&&&inn, pub&&&0
+Gurke die&&&cucumber&&&0
+Haferflocken (pl)&&&(porridge) oats&&&0
+Hallenbad das&&&indoor swimming pool&&&0
+hart&&&hard&&&0
+Hauptgericht das&&&main course&&&0
+Herr Ober!&&&Waiter!&&&0
+Himbeere die&&&raspberry&&&0
+holen&&&to fetch, to get&&&0
+Imbiss der&&&snack&&&0
+Imbissbude die&&&snack bar, takeaway&&&0
+Imbissstand der&&&snack bar, takeaway&&&0
+Interesse haben an&&&to be interested in&&&0
+Jugendklub der&&&youth club&&&0
+Kakao der&&&cocoa&&&0
+Kännchen das&&&pot (tea, coffee)&&&0
+Kartoffel die&&&potato&&&0
+Käse der&&&cheese&&&0
+kegeln&&&bowling (nine pin)&&&0
+Keks der&&&biscuits&&&0
+Kirsche die&&&cherry&&&0
+klettern&&&to climb&&&0
+Korbball der&&&netball&&&0
+köstlich&&&delicious&&&0
+Kotelett das&&&pork chop&&&0
+Krimi der&&&crime (film/book), thriller&&&0
+lachen&&&to laugh&&&0
+laufen&&&to run&&&0
+lecker&&&tasty&&&0
+Leinwand die&&&(big) screen (in cinema)&&&0
+Liebesfilm der&&&film with a love story&&&0
+Lied das&&&song&&&0
+Lust haben etwas zu tun&&&to feel like doing something&&&0
+Mitglied das&&&member&&&0
+Nachrichten (pl)&&&news&&&0
+Nachspeise die&&&dessert&&&0
+Nachtisch der&&&dessert&&&0
+Nudeln (pl)&&&noodles, pasta&&&0
+Nuss die&&&nut&&&0
+Obst das&&&fruit&&&0
+Öl das&&&oil&&&0
+Pfeffer der&&&pepper&&&0
+Pfirsich der&&&peach&&&0
+Pflaume die&&&plum&&&0
+Pilz der&&&mushroom&&&0
+Praline die&&&chocolate (in a box of chocolates)&&&0
+probieren&&&to try, to taste&&&0
+Pute die&&&turkey&&&0
+Rechnung die&&&bill&&&0
+rennen&&&to run&&&0
+riechen&&&to smell&&&0
+ringen&&&to wrestle&&&0
+rodeln&&&to go sledging&&&0
+roh&&&raw&&&0
+Rollschuh laufen&&&to go roller skating&&&0
+rudern&&&to row&&&0
+Saft der&&&juice&&&0
+Sahne die&&&cream&&&0
+sammeln&&&to collect&&&0
+satt sein&&&to be full up, have had enough (to eat)&&&0
+Schach das&&&chess&&&0
+scharf&&&spicy, hot&&&0
+Schaschlik das&&&kebab&&&0
+schießen&&&to shoot&&&0
+schmecken&&&to taste&&&0
+Schnellimbiss der&&&snack bar&&&0
+Segelboot das&&&sailing boat&&&0
+segeln&&&to sail&&&0
+Seifenoper die&&&soap opera&&&0
+Selbstbedienung die&&&self-service&&&0
+Sendung die&&&programme&&&0
+Senf der&&&mustard&&&0
+Serie die&&&series&&&0
+Sitz(platz) der&&&seat&&&0
+sitzen&&&to sit&&&0
+spannend&&&exciting, thrilling&&&0
+Speisekarte die&&&menu&&&0
+Speisesaal der&&&dining hall, dining room&&&0
+Spielzeug das&&&toy(s)&&&0
+Spinat der&&&spinach&&&0
+Sportart die&&&type of sport&&&0
+springen&&&to jump&&&0
+Stadion das&&&stadium&&&0
+Stehcafé das&&&small area with tables in a bakery or supermarket (but no seating)&&&0
+Stimme die&&&voice&&&0
+stricken&&&to knit&&&0
+Suppe die&&&soup&&&0
+süß&&&sweet&&&0
+Tagesgericht das&&&dish of the day&&&0
+Tagesmenü das&&&menu of the day&&&0
+tauchen&&&to dive&&&0
+Thunfisch der&&&tuna&&&0
+Tor das&&&goal&&&0
+Torte die&&&gateau&&&0
+Trainingsanzug der&&&track suit&&&0
+Trainingsschuh der&&&sport shoe, trainers&&&0
+treffen (sich mit)&&&to meet (someone)&&&0
+Trinkgeld das&&&tip (for waiter/waitress)&&&0
+turnen&&&to do gymnastics&&&0
+unterhalten (sich)&&&to have a chat&&&0
+Unterhaltung die&&&entertainment&&&0
+Vegetarier der&&&vegetarian&&&0
+verlieren&&&to lose&&&0
+Volksmusik die&&&folk music&&&0
+vorschlagen&&&to suggest&&&0
+Vorspeise die&&&starter (on menu)&&&0
+Vorstellung die&&&showing, performance&&&0
+wandern&&&to hike, to walk&&&0
+weich&&&soft&&&0
+(Wiener) Schnitzel das&&&veal/pork cutlet (boneless)&&&0
+Weintraube die&&&grape&&&0
+Werbung die&&&advert(isement)&&&0
+werfen&&&to throw&&&0
+Wettbewerb der&&&competition&&&0
+Wurst die&&&sausage&&&0
+zahlen&&&to pay&&&0
+Zeichentrickfilm der&&&cartoon&&&0
+Zeitschrift die&&&magazine&&&0
+Zeitung die&&&newspaper&&&0
+Zeug das&&&stuff, things, gear&&&0
+ziehen&&&pull&&&0
+Zitrone die&&&lemon&&&0
+Zucker der&&&sugar&&&0
+Zuschauer der&&&spectator, member of the audience&&&0
+Zwiebel die&&&onion&&&0
+Adventskranz der&&&advent wreath&&&0
+anzünden&&&to light&&&0
+Aschermittwoch der&&&Ash Wednesday&&&0
+bekommen&&&to get, to receive&&&0
+danken&&&to thank&&&0
+einladen&&&to invite&&&0
+Einladung die&&&invitation&&&0
+Feier die&&&celebration&&&0
+feiern&&&to celebrate&&&0
+Feiertag der&&&public holiday&&&0
+Fest das&&&festival, celebration&&&0
+Feuerwerk das&&&fireworks&&&0
+freuen (sich auf)&&&to look forward to&&&0
+freuen (sich über)&&&to be pleased about something&&&0
+Gast der&&&guest&&&0
+Gastgeber der&&&host&&&0
+Geschenk das&&&present&&&0
+Heiliger Abend (24 Dez)&&&Christmas Eve&&&0
+Heilige Drei Könige (6 Jan)&&&Epiphany&&&0
+Karfreitag der&&&Good Friday&&&0
+Karneval der&&&carnival&&&0
+Kerze die&&&candle&&&0
+kirchlich&&&religious&&&0
+Lebkuchen der&&&type of gingerbread&&&0
+Maifeiertag der&&&May Day&&&0
+Muttertag der&&&Mother's Day&&&0
+Neujahrstag der (1 Jan)&&&New Year's Day&&&0
+Osterei das&&&Easter egg&&&0
+Osterhase der&&&Easter bunny&&&0
+Ostern&&&Easter&&&0
+Pfingsten&&&Whitsuntide&&&0
+Sankt Nikolaus (Tag) (6 Dez)&&&St Nicholas' Day&&&0
+schmücken&&&to decorate&&&0
+Silvester&&&New Year's Eve&&&0
+Tag der Deutschen Einheit (3 Okt)&&&Day of German Unity&&&0
+Valentinstag der (14 Feb)&&&St Valentine's Day&&&0
+verkleiden (sich)&&&to dress up, to disguise oneself, to put on fancy dress&&&0
+verstecken&&&to hide&&&0
+Weihnachten&&&Christmas&&&0
+Weihnachtsbaum der&&&Christmas tree&&&0
+Weihnachtslieder (pl)&&&Christmas carols&&&0
+1. (erste) Weihnachtstag der&&&Christmas Day&&&0
+2. (zweite) Weihnachtstag der&&&Boxing Day&&&0
+Ampel die&&&traffic light&&&0
+anbieten&&&to offer&&&0
+Angebot das&&&offer&&&0
+anmachen&&&to turn/switch on&&&0
+anprobieren&&&to try on (clothes)&&&0
+Apotheke die&&&pharmacy&&&0
+Apparat der&&&apparatus, appliance, gadget&&&0
+aufräumen&&&to tidy (up)&&&0
+ausgeben&&&to spend (money)&&&0
+ausmachen&&&to turn/switch off&&&0
+Ausverkauf der&&&sale&&&0
+ausverkauft&&&sold out&&&0
+Bäckerei die&&&bakery&&&0
+Backofen der&&&oven&&&0
+baden&&&to have a bath&&&0
+Badewanne die&&&bathtub&&&0
+Bauernhaus das&&&farm house&&&0
+Bauernhof der&&&farm&&&0
+Baum der&&&tree&&&0
+Berg der&&&mountain&&&0
+Bild das&&&picture&&&0
+Blume die&&&flower&&&0
+braten&&&to fry&&&0
+Brücke die&&&bridge&&&0
+Bücherei die&&&library&&&0
+Buchhandlung die&&&book shop&&&0
+Bürgersteig der&&&pavement&&&0
+Dach das&&&roof&&&0
+Dachboden der&&&attic, loft&&&0
+Decke die&&&ceiling; blanket&&&0
+Denkmal das&&&monument&&&0
+Diele die&&&hall&&&0
+Dom der&&&cathedral&&&0
+Doppelhaus das&&&semi-detached house&&&0
+Drogerie die&&&chemist's&&&0
+Ecke die&&&corner&&&0
+eigen&&&own&&&0
+Einfamilienhaus das&&&detached house&&&0
+einkaufen&&&to shop&&&0
+Einkaufskorb der&&&shopping basket&&&0
+Einkaufstasche die&&&shopping bag&&&0
+Einkaufswagen der&&&shopping trolley&&&0
+einpacken&&&to wrap (up)&&&0
+Einwohner der&&&inhabitant&&&0
+Elektrogeschäft das&&&shop for electrical goods&&&0
+Erdgeschoss das&&&ground floor&&&0
+Etage die&&&floor, storey&&&0
+Etagenbett das&&&bunk bed&&&0
+Fabrik die&&&factory&&&0
+Feld das&&&field&&&0
+flach&&&flat&&&0
+Fleischerei die&&&butcher's&&&0
+Flur der&&&hall, coridor&&&0
+Fluss der&&&river&&&0
+Friseur (salon) der&&&hairdresser's&&&0
+Fußboden der&&&floor&&&0
+Fußgängerzone die&&&pedestrian precinct&&&0
+Gabel die&&&fork&&&0
+Gasherd der&&&gas cooker&&&0
+Gebäude das&&&building&&&0
+Gegend die&&&region, area&&&0
+günstig&&&reasonable, good value for money&&&0
+Hafen der&&&harbour, port&&&0
+Haltestelle die&&&stop (bus, tram etc)&&&0
+Hauptbahnhof der&&&main railway station&&&0
+Hauptstadt die&&&capital city&&&0
+Haushalt der&&&household&&&0
+Hecke die&&&hedge&&&0
+Helm der&&&helmet&&&0
+Herd der&&&cooker, stove&&&0
+Hochhaus das&&&high rise block of flats&&&0
+Hügel der&&&hill&&&0
+Insel die&&&island&&&0
+Juweliergeschäft das&&&jeweller's&&&0
+kaputt&&&broken&&&0
+Kasse die&&&till, cash point&&&0
+Kaufhaus das&&&department store&&&0
+Kirchturm der&&&church tower, spire&&&0
+Kleidergeschäft das&&&clothes shop&&&0
+klingeln&&&to ring (bell)&&&0
+klopfen&&&to knock (door)&&&0
+kochen&&&to cook&&&0
+Kochfeld das&&&hob&&&0
+Kommode die&&&chest of drawers&&&0
+Konditorei die&&&confectioner's&&&0
+Kopfkissen das&&&pillow&&&0
+kostenlos&&&free of charge&&&0
+Kreuzung die&&&crossroads&&&0
+Kühlschrank der&&&fridge&&&0
+Kunde der&&&customer&&&0
+Kunstgalerie die&&&art gallery&&&0
+Laden der&&&shop&&&0
+Land das&&&land, countryside&&&0
+Landschaft die&&&landscape&&&0
+Lebensmittelgeschäft das&&&grocer's&&&0
+leeren&&&to empty&&&0
+legen&&&to lay, to put, to place (down)&&&0
+Licht das&&&light&&&0
+liefern&&&to deliver&&&0
+Löffel der&&&spoon&&&0
+mähen&&&to mow&&&0
+Mahlzeit die&&&meal, meal time&&&0
+Marke die&&&brand, make&&&0
+Marktplatz der&&&market place&&&0
+Mauer die&&&wall (outside)&&&0
+Messer das&&&knife&&&0
+Metzgerei die&&&butcher's&&&0
+Miete die&&&rent&&&0
+mieten&&&to rent, to hire&&&0
+Mikrowelle die&&&microwave oven&&&0
+Möbel (pl)&&&furniture&&&0
+Mofa das&&&(motorised) bicycle&&&0
+Motorrad das&&&motor bike&&&0
+nach Hause&&&(going) home&&&0
+nach oben&&&upstairs&&&0
+nach unten&&&downstairs&&&0
+Nachbar der&&&neighbour&&&0
+Nachteil der&&&disadvantage&&&0
+Nachttisch der&&&bedside cabinet&&&0
+Obst- und Gemüseladen der&&&green grocer's&&&0
+Ordnung die&&&order&&&0
+Parkplatz der&&&parking place&&&0
+Pflanze die&&&plant&&&0
+Plakat das&&&poster, billboard&&&0
+Platz der&&&place; square&&&0
+putzen&&&to clean&&&0
+Quittung die&&&receipt&&&0
+Rasen der&&&lawn&&&0
+Regal das&&&shelf&&&0
+Reihenhaus das&&&terraced house&&&0
+Reinigung die&&&dry cleaner's&&&0
+Rolltreppe die&&&escalator&&&0
+Sache die&&&thing; stuff&&&0
+sauber machen&&&to clean&&&0
+S-Bahn die&&&suburban (fast) railway&&&0
+Schaufenster das&&&shop window&&&0
+Schlange stehen&&&to queue&&&0
+Schlüssel der&&&key&&&0
+Schrank der&&&cupboard&&&0
+Schreibwarengeschäft das&&&stationery shop&&&0
+Schublade die&&&drawer&&&0
+Sonderangebot das&&&special offer&&&0
+Sonst noch etwas?&&&Anything else?&&&0
+Spiegel der&&&mirror&&&0
+Spielplatz der&&&play ground&&&0
+Stadtrand der&&&outskirts of a town&&&0
+stecken&&&to put (something into)&&&0
+stellen&&&to put, to place (upright)&&&0
+Straßenbahn die&&&tram&&&0
+tanken&&&to fill up with petrol/diesel&&&0
+Tankstelle die&&&petrol station&&&0
+Tasse die&&&cup&&&0
+Teelöffel der&&&teaspoon&&&0
+Teller der&&&plate&&&0
+Teppich der&&&carpet&&&0
+Tiefkühlschrank der&&&freezer&&&0
+Tischdecke die&&&table cloth&&&0
+Topf der&&&pan&&&0
+Treppe die&&&stairs&&&0
+Turm der&&&tower&&&0
+U-Bahn die&&&underground train, tube&&&0
+umgeben von&&&surrounded by&&&0
+Umgebung die&&&surrounding area&&&0
+umziehen&&&to move (house)&&&0
+Vorhang der&&&curtain&&&0
+Vorort der&&&suburb&&&0
+Vorteil der&&&advantage&&&0
+Wald der&&&wood, forest&&&0
+Wand die&&&wall (inside)&&&0
+Warenhaus das&&&department store&&&0
+Waschbecken das&&&wash basin&&&0
+Wiese die&&&meadow&&&0
+Wintergarten der&&&conservatory&&&0
+Wohnblock der&&&block of flats&&&0
+Zebrastreifen der&&&zebra crossing&&&0
+abhängig sein von&&&to be dependent on&&&0
+abnehmen&&&to lose weight&&&0
+Ader die&&&vein&&&0
+Altenheim das&&&old people's home&&&0
+anonym&&&anonymous&&&0
+atmen&&&breath&&&0
+aufgeben&&&to give up&&&0
+aufhören&&&to stop&&&0
+Ausländer der&&&foreigner&&&0
+ausländisch&&&foreign&&&0
+betrunken&&&drunk, intoxicated&&&0
+Bewegung die&&&movement; exercise&&&0
+bewusstlos&&&unconscious&&&0
+Bewusstsein das&&&consciousness&&&0
+Bio~&&&biological ~, organic&&&0
+Blut das&&&blood&&&0
+brechen&&&to be sick; to break&&&0
+Droge die&&&drug&&&0
+Drogenhändler der&&&drug dealer&&&0
+Drogensüchtige der/die&&&drug addict&&&0
+Einwanderer der&&&immigrant&&&0
+entspannen (sich)&&&to relax&&&0
+Ernährung die&&&food, nourishment, nutrition&&&0
+Erste Hilfe&&&First Aid&&&0
+es geht mir gut/schlecht&&&I am fine, well/not well&&&0
+Fett das&&&fat&&&0
+fettig&&&fatty&&&0
+fettleibig&&&obese&&&0
+Feuerwehr die&&&fire brigade&&&0
+freiwillig&&&voluntarily&&&0
+Freiwillige der/die&&&volunteer&&&0
+gebrochen&&&broken&&&0
+gesund&&&healthy&&&0
+Gesundheit die&&&health&&&0
+Gewicht das&&&weight&&&0
+gewinnen&&&to win&&&0
+halten&&&to hold, to keep&&&0
+Hautfarbe die&&&colour of the skin&&&0
+Heim das&&&home, hostel&&&0
+helfen&&&to help&&&0
+Herz das&&&heart&&&0
+Hilfe die&&&help&&&0
+hilflos&&&helpless&&&0
+in Form sein&&&to be in form/in (good) shape&&&0
+krank&&&ill&&&0
+Krankenhaus das&&&hospital&&&0
+Krankenwagen der&&&ambulance&&&0
+Krankheit die&&&illness&&&0
+Krebs der&&&cancer&&&0
+Leber die&&&liver&&&0
+Magen der&&&stomach&&&0
+Medikament das&&&medicine&&&0
+Preis der&&&prize&&&0
+Rasse die&&&race&&&0
+Rassismus der&&&racism&&&0
+rassistisch&&&racist&&&0
+rauchen&&&to smoke&&&0
+Ruhe die&&&peace, quiet, tranquillity&&&0
+Schmerz der&&&pain, ache&&&0
+...schmerzen haben&&&to have ...ache&&&0
+Sorge die&&&worry&&&0
+sorgen für&&&to care for, to look after&&&0
+spenden&&&to donate&&&0
+Spritze die&&&syringe, injection&&&0
+spritzen&&&to inject&&&0
+sterben&&&to die&&&0
+Sucht die&&&addiction&&&0
+süchtig&&&addicted, addictive&&&0
+Tierheim das&&&animal shelter&&&0
+tot&&&dead&&&0
+übel (mir ist)&&&I feel ill, sick&&&0
+Unfall der&&&accident&&&0
+Vene die&&&vein&&&0
+Verkehrsunfall der&&&traffic accident&&&0
+verletzen (sich)&&&to be/get injured&&&0
+Verletzung die&&&injury&&&0
+weh tun&&&to hurt&&&0
+Wohltätigkeit die&&&charity&&&0
+Wohltätigkeitskonzert das&&&charity concert&&&0
+Wohltätigkeitsveranstaltung die&&&charity event&&&0
+zunehmen&&&to put on weight&&&0
+Abfall der&&&rubbish, waste&&&0
+Abfalleimer der&&&rubbish bin, litter bin&&&0
+Abgase (pl)&&&exhaust fumes&&&0
+Achtung die&&&respect, esteem&&&0
+alternative Energiequelle die&&&alternative source of energy&&&0
+Altpapier das&&&waste paper&&&0
+anbauen&&&to grow&&&0
+arbeitslos&&&unemployed&&&0
+arm&&&poor&&&0
+Armut die&&&poverty&&&0
+aussterben&&&to die out&&&0
+bedrohen&&&to threaten&&&0
+Benzin das&&&petrol&&&0
+Bettler der&&&beggar&&&0
+Bevölkerung die&&&population&&&0
+biologisch&&&biological, organic&&&0
+Biomüll der&&&organic waste&&&0
+bleifrei&&&lead free&&&0
+brauchen&&&to need&&&0
+Brennstoff der&&&fuel&&&0
+chemisch&&&chemical(ly)&&&0
+Dieb der&&&thief&&&0
+Diskriminierung die&&&discrimination&&&0
+einsam&&&lonely&&&0
+entsorgen&&&to dispose of (waste, refuse, sewage)&&&0
+erfrieren&&&to freeze to death&&&0
+Fahrradweg der&&&bicycle track/lane&&&0
+FCKWs&&&CFCs&&&0
+fliehen&&&to flee&&&0
+Flüchtling der&&&refugee&&&0
+Gebrauch der&&&usage&&&0
+gefährlich&&&dangerous&&&0
+Gesellschaft die&&&society&&&0
+Gewalt die&&&violence&&&0
+gewalttätig&&&violent&&&0
+heizen&&&to heat&&&0
+Heizung die&&&heating&&&0
+Kaugummi der&&&chewing gum&&&0
+keinen festen Wohnsitz haben&&&to have no fixed abode&&&0
+Kohle die&&&coal&&&0
+Kraftwerk das&&&power station&&&0
+Krieg der&&&war&&&0
+Kunststoff der&&&man-made/synthetic material&&&0
+Lärm der&&&noise&&&0
+laut&&&noisy&&&0
+Leben das&&&life&&&0
+Luft die&&&air&&&0
+Luftverschmutzung die&&&air pollution&&&0
+Müll der&&&refuse, waste, rubbish&&&0
+Mülltonne die&&&dustbin&&&0
+obdachlos&&&homeless&&&0
+öffentlich&&&public(ly)&&&0
+Opfer das&&&victim&&&0
+Ozonloch das&&&hole in the ozone layer&&&0
+Ozonschicht die&&&ozone layer&&&0
+Pfand das&&&deposit&&&0
+reich&&&rich&&&0
+reinigen&&&to clean&&&0
+sauber&&&clean&&&0
+Sauerstoff der&&&oxygen&&&0
+saure Regen der&&&acid rain&&&0
+Schaden der&&&damage&&&0
+schädlich&&&harmful&&&0
+Schale die&&&skin (fruit), peel (potato), shell (egg)&&&0
+schmutzig&&&dirty&&&0
+schützen&&&to protect&&&0
+schwach&&&weak&&&0
+Solarzelle die&&&solar cell&&&0
+Sonnenenergie die&&&solar energy&&&0
+Sozialhilfe die&&&income support&&&0
+Sozialwohnung die&&&council flat&&&0
+sparen&&&to save, to conserve&&&0
+Spraydose die&&&aerosol&&&0
+stark&&&strong&&&0
+stehlen&&&to steal&&&0
+Suppenküche die&&&soup kitchen&&&0
+Treibhauseffekt der&&&greenhouse effect&&&0
+überbevölkert&&&over-populated&&&0
+ultraviolette Strahlen (pl)&&&ultra-violet rays&&&0
+Umfrage die&&&survey, opinion poll&&&0
+Umwelt die&&&environment&&&0
+umweltfeindlich&&&environmentally hostile&&&0
+umweltfreundlich&&&environmentally friendly&&&0
+unterstützen&&&to support&&&0
+Unterstützung die&&&support, help&&&0
+Verbrauch der&&&consumption&&&0
+Verbrechen das&&&crime&&&0
+Verbrecher der&&&criminal&&&0
+Verkehr der&&&traffic&&&0
+Verkehrsmittel das&&&means of transport&&&0
+Verpackung die&&&packaging&&&0
+verschmutzen&&&to pollute&&&0
+Verschmutzung die&&&pollution&&&0
+verschwinden&&&to disappear&&&0
+vertreiben&&&to drive out, to expel&&&0
+Wasserkraft die&&&hydroelectric power&&&0
+Wasserverschmutzung die&&&water pollution&&&0
+wegwerfen&&&to throw away&&&0
+weltweit&&&worldwide&&&0
+zerstören&&&to destroy&&&0
+Zuhause das&&&home, house&&&0
+abfahren&&&to leave, to depart&&&0
+abholen&&&to collect, to pick up&&&0
+ankommen&&&to arrive&&&0
+Asien&&&Asia&&&0
+Ausflug der&&&trip, excursion&&&0
+ausfüllen&&&to fill in&&&0
+Ausland das&&&foreign country, abroad&&&0
+Aussicht die&&&view&&&0
+aussteigen&&&to alight, get off (bus)&&&0
+Bahnsteig der&&&platform&&&0
+Belgien&&&Belgium&&&0
+beliebt&&&popular&&&0
+besichtigen&&&to sightsee, to visit, to have a look&&&0
+bleiben&&&to stay&&&0
+Blick der&&&view, glance&&&0
+Boot das&&&boat&&&0
+Briefkasten der&&&letter box&&&0
+Briefmarke die&&&postage stamp&&&0
+Burg die&&&(fortified) castle&&&0
+Campingplatz der&&&campsite&&&0
+Donau die&&&Danube&&&0
+Doppelzimmer das&&&double room&&&0
+einsteigen&&&to get in/on&&&0
+Einzelzimmer das&&&single room&&&0
+entwerten&&&to stamp/validate a ticket&&&0
+Erinnerung die&&&memory&&&0
+erleben&&&to experience&&&0
+Ermäßigung die&&&reduction&&&0
+Fähre die&&&ferry&&&0
+Fahrkarte die&&&ticket&&&0
+Fahrkartenautomat der&&&ticket machine&&&0
+Fahrkartenschalter der&&&ticket office&&&0
+Fahrpreis der&&&fare&&&0
+Fahrradvermietung die&&&bicycle hire&&&0
+Fahrt die&&&journey&&&0
+Flug der&&&flight&&&0
+Flughafen der&&&airport&&&0
+Flugzeug das&&&plane&&&0
+Formular das&&&form&&&0
+Fotoapparat der&&&camera&&&0
+Führung die&&&guided tour&&&0
+Gepäck das&&&luggage&&&0
+Gleis das&&&track, platform&&&0
+Griechenland&&&Greece&&&0
+Halbpension die&&&half board&&&0
+herumfahren&&&to travel around&&&0
+Jugendherberge die&&&youth hostel&&&0
+Koffer der&&&suitcase&&&0
+Köln&&&Cologne&&&0
+Küste die&&&coast&&&0
+Linie die&&&line, number (tram, bus)&&&0
+Meer das&&&sea&&&0
+Mittelmeer das&&&Mediterranean&&&0
+Mosel die&&&Moselle&&&0
+München&&&Munich&&&0
+Notausgang der&&&emergency exit&&&0
+Öffnungszeiten (pl)&&&opening times&&&0
+örtlich&&&local&&&0
+Ostsee die&&&Baltic Sea&&&0
+Panne die&&&breakdown, puncture, flat tyre&&&0
+Passagier der&&&passenger&&&0
+Pension die&&&(small) hotel&&&0
+Polen&&&Poland&&&0
+Reise die&&&journey, trip, voyage&&&0
+Reisebüro das&&&travel agency&&&0
+Reisebus der&&&coach&&&0
+reisen&&&to travel&&&0
+Reisende der/die&&&traveller&&&0
+Reisescheck der&&&traveller's cheque&&&0
+Reisetasche die&&&travel bag&&&0
+Reiseziel das&&&destination&&&0
+Rhein der&&&Rhine&&&0
+Richtung die&&&direction&&&0
+Rundfahrt die&&&round trip, tour&&&0
+Russland&&&Russia&&&0
+Schließfach das&&&locker&&&0
+Schloss das&&&castle, palace&&&0
+See der&&&lake&&&0
+See die&&&sea&&&0
+seekrank&&&sea sick&&&0
+sehenswert&&&worth seeing&&&0
+Sehenswürdigkeit die&&&tourist attraction, sight&&&0
+Sicherheitsgurt der&&&safety belt, seat belt&&&0
+sonnen (sich)&&&to sunbathe&&&0
+Sonnenbrand der&&&sunburn&&&0
+Sonnencreme die&&&suntan lotion&&&0
+Speisewagen der&&&dining car, restaurant car (train)&&&0
+Stadtbummel der&&&stroll through town; window shopping&&&0
+Stadtrundfahrt die&&&sightseeing tour of a town/city&&&0
+Stau der&&&traffic jam&&&0
+Strand der&&&beach&&&0
+Straßenkarte die&&&road map&&&0
+Überfahrt die&&&crossing (sea)&&&0
+übernachten&&&to stay overnight&&&0
+Übernachtung die&&&overnight stay&&&0
+Übernachtung mit Frühstück&&&B&B&&&0
+überqueren&&&to cross (road, sea)&&&0
+umsteigen&&&to change (means of transport)&&&0
+unterwegs&&&on the way&&&0
+Urlaub der&&&holiday&&&0
+verbringen&&&to spend (time)&&&0
+verpassen&&&to miss&&&0
+Verspätung die&&&delay&&&0
+Vollpension die&&&full board&&&0
+warten (auf)&&&to wait (for)&&&0
+Wartesaal der&&&waiting room (eg station)&&&0
+weg&&&away&&&0
+Weg der&&&way, path&&&0
+wegfahren&&&to leave, to travel away&&&0
+weggehen&&&to leave, to go away&&&0
+weiterfahren&&&to travel on&&&0
+wieder&&&again&&&0
+Wien&&&Vienna&&&0
+Wohnwagen der&&&caravan&&&0
+Zelt das&&&tent&&&0
+zelten&&&to camp&&&0
+Zweibettzimmer das&&&twin bed room&&&0
+Direktor der&&&headteacher, principal&&&0
+Fach das&&&subject&&&0
+Fremdsprache die&&&foreign language&&&0
+gerecht&&&fair, just&&&0
+klug&&&clever, intelligent&&&0
+lehren&&&to teach&&&0
+Schulfach das&&&school subject&&&0
+Schulleiter der&&&headteacher, principal&&&0
+Stunde die&&&lesson&&&0
+ungerecht&&&unfair&&&0
+Werken&&&DT&&&0
+1 = sehr gut&&&very good&&&0
+2 = gut&&&good&&&0
+3 = befriedigend&&&satisfactory, fair&&&0
+4 = ausreichend&&&sufficient, pass (just)&&&0
+5 = mangelhaft&&&poor, unsatisfactory, fail&&&0
+6 = ungenügend&&&extremely poor, inadequate&&&0
+Abschlusszeugnis das&&&school leaving certificate&&&0
+Anspitzer der&&&pencil sharpener&&&0
+Antwort die&&&answer&&&0
+antworten&&&to answer&&&0
+anziehen (sich)&&&to get dressed&&&0
+Anzug der&&&suit&&&0
+aufpassen&&&to pay attention&&&0
+aufstehen&&&to get up&&&0
+aufwachen&&&to wake up&&&0
+Aula die&&&(assembly) hall&&&0
+Austausch der&&&exchange&&&0
+Auswahl die&&&choice&&&0
+ausziehen (sich)&&&to get undressed&&&0
+bestehen&&&to pass (exam/test)&&&0
+blau machen&&&to skip work, to play truant&&&0
+Bluse die&&&blouse&&&0
+dauern&&&to last&&&0
+Erfolg der&&&success&&&0
+erfolgreich&&&successful&&&0
+erklären&&&to explain&&&0
+erzählen&&&to tell, to narrate&&&0
+faul&&&lazy&&&0
+fehlen&&&to be missing, absent&&&0
+Ferien (pl)&&&holidays&&&0
+fleißig&&&hard working, industrious&&&0
+Frage die&&&question&&&0
+fragen&&&to ask&&&0
+Ganztagsschule die&&&school that lasts all day&&&0
+Gesamtschule die&&&comprehensive school&&&0
+gründen&&&to found&&&0
+Grundschule die&&&primary school&&&0
+Gymnasium das&&&grammar school&&&0
+Halle die&&&hall&&&0
+Hauptschule die&&&secondary school&&&0
+Hausmeister der&&&caretaker&&&0
+Hemd das&&&shirt&&&0
+Hose die&&&trousers&&&0
+Internat das&&&boarding school&&&0
+Klassenarbeit die&&&test&&&0
+Klassenfahrt die&&&school trip&&&0
+Kleid das&&&dress&&&0
+korrigieren&&&to correct&&&0
+Krawatte die&&&tie&&&0
+Kreide die&&&chalk&&&0
+Labor das&&&laboratory&&&0
+Lehrerzimmer das&&&staff room&&&0
+Lineal das&&&ruler&&&0
+malen&&&to paint&&&0
+Mittagspause die&&&lunch break&&&0
+mündlich&&&orally&&&0
+nachsitzen&&&to have a detention&&&0
+Note die&&&grade, mark&&&0
+Notendruck der&&&pressure to achieve good marks/grades&&&0
+Pause die&&&break&&&0
+plaudern&&&to chat, to talk&&&0
+Prüfung die&&&exam&&&0
+rasieren (sich)&&&to shave&&&0
+Raum der&&&room&&&0
+Realschule die&&&secondary school&&&0
+rechnen&&&to calculate, to do sums&&&0
+Regel die&&&rule&&&0
+Rock der&&&skirt&&&0
+schaffen&&&to manage, to cope; to create&&&0
+Schal der&&&scarf&&&0
+schminken (sich)&&&to put on make-up&&&0
+schriftlich&&&written&&&0
+Schüler der&&&student&&&0
+Schulhof der&&&school yard, playground&&&0
+schwatzen/schwätzen&&&to chatter&&&0
+Seite die&&&page&&&0
+Sekretariat das&&&office (school), reception&&&0
+setzen (sich)&&&to sit down&&&0
+sitzen bleiben&&&to repeat a school year&&&0
+Sprachlabor das&&&language lab&&&0
+Stundenplan der&&&timetable&&&0
+Tafel die&&&black/white board&&&0
+Turnhalle die&&&sports hall&&&0
+üben&&&to practise&&&0
+Übung die&&&exercise&&&0
+Umkleideraum der&&&changing room&&&0
+umziehen (sich)&&&to get changed, change clothes&&&0
+Unterricht der&&&lessons; teaching&&&0
+unterrichten&&&to teach&&&0
+verlassen&&&to leave&&&0
+Versammlung die&&&assembly&&&0
+verstehen&&&to understand&&&0
+versuchen&&&to try&&&0
+wählen&&&to choose&&&0
+waschen (sich)&&&to have a wash&&&0
+wiederholen&&&to repeat&&&0
+wissen&&&to know&&&0
+Wörterbuch das&&&dictionary&&&0
+Zahnbürste die&&&toothbrush&&&0
+Zahnpasta die&&&toothpaste&&&0
+zeichnen&&&to draw&&&0
+Zeugnis das&&&school report&&&0
+zuhören&&&to listen&&&0
+(Azubi) = Auszubildende der&&&apprentice, trainee&&&0
+Abitur das&&&A-level equivalent&&&0
+Abiturient der&&&person doing the Abitur&&&0
+arbeiten&&&to work&&&0
+Arbeitspraktikum das&&&work experience&&&0
+Ausbildung die&&&(job) training, education&&&0
+Ausbildungsplatz der&&&vacancy/place for a trainee&&&0
+Berufsberater der&&&careers adviser&&&0
+Berufsschule die&&&vocational training school&&&0
+bewerben (sich um)&&&to apply for&&&0
+Bewerbung die&&&application&&&0
+Brief der&&&letter&&&0
+Chef der&&&boss&&&0
+entscheiden (sich)&&&to decide&&&0
+Erfahrung die&&&experience&&&0
+fertig&&&ready, done&&&0
+Führerschein der&&&driving licence&&&0
+Gelegenheit die&&&opportunity&&&0
+Kollege der&&&colleague&&&0
+Kurs der&&&course&&&0
+Lebenslauf der&&&curriculum vitae (CV)&&&0
+Lehre die&&&apprenticeship&&&0
+Lohn der&&&wage&&&0
+Mindestlohn der&&&minimum wage&&&0
+Nebenjob der&&&part-time job&&&0
+Oberstufe die&&&equivalent to sixth-form&&&0
+Rat der&&&advice&&&0
+Semester das&&&term&&&0
+Studienplatz der&&&university place&&&0
+Studium das&&&studies&&&0
+theoretisch&&&theoretical&&&0
+verdienen&&&to earn&&&0
+Angestellte der/die&&&employee&&&0
+Apotheker der&&&pharmacist&&&0
+Arbeitszeit die&&&work hours&&&0
+Bäcker der&&&baker&&&0
+Bauarbeiter der&&&building/construction worker&&&0
+bauen&&&to build&&&0
+Bauer der&&&farmer&&&0
+Beamte der/die&&&civil servant&&&0
+Beruf der&&&job, occupation&&&0
+berufstätig (sein)&&&(to be) in work&&&0
+beschäftigt (sein)&&&(to be) busy, employed&&&0
+beschließen&&&to decide&&&0
+besitzen&&&to own&&&0
+Besitzer der&&&owner&&&0
+Bezahlung die&&&payment&&&0
+Briefträger der&&&postman&&&0
+Büro das&&&office&&&0
+erfüllen&&&to fulfil&&&0
+Feuerwehrmann der&&&fire fighter&&&0
+Fleischer der&&&butcher&&&0
+Friseur der&&&hairdresser&&&0
+ganztags&&&all day&&&0
+Gärtner der&&&gardener&&&0
+Gehalt das&&&salary&&&0
+Halbtagsarbeit die&&&part time employment&&&0
+Hausfrau die&&&house wife&&&0
+im Freien&&&outside, in the open air&&&0
+Karriere die&&&career&&&0
+Kassierer der&&&cashier, bank clerk&&&0
+Klempner der&&&plumber&&&0
+Koch der&&&chef, cook&&&0
+Krankenschwester die&&&nurse&&&0
+LKW-Fahrer der&&&lorry driver&&&0
+Maler der&&&painter, decorator&&&0
+Metzger der&&&butcher&&&0
+Pfarrer der&&&parish priest, vicar&&&0
+Polizei die&&&police&&&0
+Polizist der&&&policeman&&&0
+Postbote der&&&postman&&&0
+Rentner der&&&pensioner&&&0
+Schauspieler der&&&actor&&&0
+Schichtarbeit die&&&shift work&&&0
+suchen&&&to look for, to search&&&0
+Teilzeitjob der&&&part time job&&&0
+Termin der&&&date, appointment&&&0
+Tischler der&&&carpenter&&&0
+Verkäufer der&&&shop assistant&&&0
+Vollzeitarbeit die&&&full time work&&&0
+Vorstellungsgespräch das&&&job interview&&&0
+Werkstatt die&&&garage&&&0
+Wunsch der&&&wish&&&0
+Alleinerziehende der/die&&&single parent&&&0
+alleinstehend&&&single&&&0
+Angeber der&&&show off, poser&&&0
+aufpassen (auf)&&&to look after&&&0
+ausgeglichen&&&balanced&&&0
+Bekannte der/die&&&acquaintance, friend&&&0
+Beziehung die&&&relationship&&&0
+Braut die&&&bride&&&0
+Bräutigam der&&&groom&&&0
+Ehe die&&&marriage&&&0
+eifersüchtig&&&jealous&&&0
+einen (guten) Sinn für Humor haben&&&to have a (good) sense of humour&&&0
+eingebildet&&&conceited&&&0
+Enkel der&&&grandson&&&0
+Enkelin die&&&granddaughter&&&0
+gleichgeschlechtliche Ehe/Partnerschaft die&&&same-sex marriage/partnership&&&0
+großzügig&&&generous&&&0
+Junggeselle der&&&bachelor&&&0
+lebhaft&&&lively&&&0
+leiden&&&to suffer&&&0
+minderjährig&&&(to be a) minor, under legal age&&&0
+miteinander&&&with one another, together&&&0
+Neffe der&&&nephew&&&0
+Nichte die&&&niece&&&0
+Schulter die&&&shoulder&&&0
+Schwager der&&&brother-in-law&&&0
+Schwägerin die&&&sister-in-law&&&0
+Schwieger~&&&~ in-law&&&0
+selbstbewusst&&&self-confident, self-assured&&&0
+Trauung die&&&wedding (ceremony)&&&0
+treu&&&faithful, loyal&&&0
+Verlobte der/die&&&fiancé(e)&&&0
+verrückt&&&crazy&&&0
+Verwandte der/die&&&relative&&&0
+Verwandtschaft die&&&relations (pl); relatives (pl)&&&0
+verzeihen&&&to forgive&&&0
+volljährig&&&(to be) of age&&&0
+Vorwahl(nummer) die&&&long distance code (telephone)&&&0
+zurechtkommen mit&&&to cope with&&&0
+zuverlässig&&&reliable&&&0
+zweifeln&&&to doubt&&&0
+Anwendungen (pl)&&&applications&&&0
+Betriebssystem das&&&operating system&&&0
+Einstellungen (pl)&&&settings&&&0
+leistungsstark&&&powerful (battery, processor)&&&0
+Sicherheit die&&&safety&&&0
+aufnehmen&&&to record&&&0
+aufregend&&&exciting&&&0
+Bergsteigen das&&&mountain climbing&&&0
+Dirigent der&&&conductor&&&0
+Ente die&&&duck&&&0
+ermüdend&&&tiring&&&0
+Flachbildschirm der&&&flat screen TV&&&0
+Flimmerkiste die&&&TV, box, telly&&&0
+Forelle die&&&trout&&&0
+Gans die&&&goose&&&0
+Geige die&&&violin&&&0
+geräuchert&&&smoked&&&0
+Halbfettmilch die&&&semi-skimmed milk&&&0
+hausgemacht&&&home made&&&0
+Honig der&&&honey&&&0
+Kalbfleisch das&&&veal&&&0
+Knoblauch der&&&garlic&&&0
+Lachs der&&&salmon&&&0
+Lamm(fleisch) das&&&lamb&&&0
+Leichtathletik die&&&athletics&&&0
+Magermilch die&&&skimmed milk&&&0
+Mehl das&&&flour&&&0
+Querflöte die&&&flute&&&0
+Rennen das&&&race&&&0
+Rindfleisch das&&&beef&&&0
+Rührei das&&&scrambled egg(s)&&&0
+Schlagzeug das&&&percussion, drums&&&0
+Schlittschuh laufen&&&ice skating&&&0
+schmackhaft&&&Tasty&&&0
+Schweinefleisch das&&&pork&&&0
+Spiegelei das&&&fried egg&&&0
+Sprudel(wasser) der (das)&&&fizzy mineral water&&&0
+Truthahn der&&&turkey&&&0
+Überraschung die&&&surprise&&&0
+Untertitel der&&&subtitle&&&0
+Verein der&&&club&&&0
+Vergnügen das&&&fun, enjoyment&&&0
+Vollmilch die&&&full fat milk&&&0
+würzig&&&spicy&&&0
+Aprilscherz der&&&April fool's trick&&&0
+Gastfreundschaft die&&&hospitality&&&0
+Tag der Arbeit (1 Mai)&&&May Day&&&0
+Abstellraum der&&&storeroom&&&0
+ausschalten&&&to switch off&&&0
+Besteck das&&&cutlery&&&0
+Brunnen der&&&well&&&0
+Einbahnstraße die&&&one way street&&&0
+einschalten&&&to switch on&&&0
+Essecke die&&&eating area (eg in the kitchen)&&&0
+Fahrschein der&&&ticket (public transport)&&&0
+Gerät das&&&appliance&&&0
+geräumig&&&roomy, spacious&&&0
+Geschirr das&&&crockery&&&0
+gratis&&&free of charge&&&0
+Grünanlage die&&&green area, park&&&0
+Mehrfamilienhaus das&&&house for several families (three to six storeys)&&&0
+Möbelstück das&&&piece of furniture&&&0
+~möglichkeiten&&&~ possibilities&&&0
+öffentliche Verkehrsmittel (pl)&&&public transport&&&0
+pleite (sein)&&&to be skint&&&0
+preiswert&&&good value for money, cheap&&&0
+Rabatt der&&&discount&&&0
+Sackgasse die&&&cul-de-sac&&&0
+Sparkasse die&&&(savings) bank&&&0
+Stadtteil der&&&part of the town&&&0
+Stadtviertel das&&&district, part of the town&&&0
+Stockwerk das&&&floor, storey&&&0
+Strom der&&&electricity&&&0
+Tiefkühltruhe die&&&chest freezer&&&0
+Treppenhaus das&&&staircase&&&0
+umsonst&&&free of charge; in vain&&&0
+Umzug der&&&move, moving (house)&&&0
+Wolkenkratzer der&&&sky-scraper&&&0
+abstinent&&&teetotal&&&0
+Atem der&&&breath&&&0
+Atembeschwerden (pl)&&&breathing difficulties&&&0
+Bedürftige der/die&&&somebody in need&&&0
+begehen&&&to commit, to perpetrate&&&0
+benachteiligen&&&to disadvantage&&&0
+bewegen (sich)&&&to move; to get/take some exercise&&&0
+Drogenberatungsstelle die&&&advice centre for drug addicts&&&0
+ehrenamtlich&&&honorary, voluntarily&&&0
+ein Mittel gegen ...&&&something, a medicine for ...&&&0
+einatmen&&&to breathe in&&&0
+Eingliederung die&&&integration&&&0
+einnehmen&&&to take (in)&&&0
+Entziehungskur die&&&rehab for drug addiction/alcoholism&&&0
+erbrechen (sich)&&&to be sick&&&0
+fettarm&&&low in fat&&&0
+Gehirn das&&&brain&&&0
+lebendig&&&alive&&&0
+magersüchtig&&&anorexic&&&0
+Mindesthaltbarkeitsdatum das&&&best before date&&&0
+Nahrung die&&&food, nourishment&&&0
+Rassenvorurteile (pl)&&&racial prejudice&&&0
+Rassist der&&&racist&&&0
+Raucherhusten der&&&smoker's cough&&&0
+Rauschgift das&&&drug, narcotic&&&0
+schaden&&&to damage, to harm&&&0
+Straftat die&&&criminal offence, act&&&0
+Süßigkeiten (pl)&&&sweets&&&0
+Überdosis die&&&overdose&&&0
+übergewichtig&&&overweight&&&0
+vermeiden&&&to avoid&&&0
+Abholzung die&&&deforestation&&&0
+Auspuffgase (pl)&&&exhaust fumes&&&0
+bedürftig&&&needy&&&0
+Düngemittel das&&&fertiliser&&&0
+Einwegflasche die&&&non-recyclable bottle&&&0
+Gleichheit die&&&equality&&&0
+Hauptverkehrszeit die&&&rush hour&&&0
+menschlich&&&human, humane&&&0
+Müllentsorgung die&&&waste disposal&&&0
+Not die&&&need&&&0
+Obdachlosenheim das&&&hostel for homeless people&&&0
+Rote Kreuz das&&&Red Cross&&&0
+überschreiten&&&to exceed&&&0
+verpesten&&&to pollute&&&0
+verschwenden&&&to waste&&&0
+verwenden&&&to use&&&0
+wiederverwerten&&&to recycle&&&0
+Wiederverwertung die&&&recycling&&&0
+Andenken das&&&souvenir, memento&&&0
+ansehen (sich etwas)&&&to have a look at something&&&0
+Ärmelkanal der&&&(English) Channel&&&0
+Aufenthalt der&&&stay&&&0
+Auskunft die&&&information&&&0
+Autovermietung die&&&car rental (firm)&&&0
+beeilen (sich)&&&to hurry&&&0
+begleiten&&&to accompany&&&0
+bestätigen&&&to confirm&&&0
+Bodensee der&&&Lake Constance&&&0
+Dampfer der&&&steam boat&&&0
+Empfang der&&&welcoming, reception (hotel)&&&0
+entdecken&&&to discover&&&0
+erinnern (sich)&&&to remember&&&0
+Fahrradverleih der&&&bicycle hire&&&0
+Genf&&&Geneva&&&0
+Gepäckaufbewahrung die&&&place where one can leave luggage for payment (station, airport)&&&0
+Klimaanlage die&&&air conditioning&&&0
+Prospekt der&&&brochure, leaflet&&&0
+Strandkorb der&&&wicker beach chair&&&0
+Verbindung die&&&connection&&&0
+Verkehrsamt das&&&tourist information office&&&0
+wegen Betriebsferien (pl) geschlossen&&&(firm/shop/attraction) closed because of holiday&&&0
+Zoll der&&&customs&&&0
+Zuschlag der&&&extra charge, surcharge&&&0
+Fremdsprachenassistent der&&&language assistant&&&0
+abschreiben&&&to copy&&&0
+abwesend&&&absent&&&0
+anwesend&&&present&&&0
+Aussprache die&&&pronunciation&&&0
+beantworten&&&to answer&&&0
+durchfallen&&&to fail (exam/test)&&&0
+eine Frage stellen&&&to ask a question&&&0
+Ergebnis das&&&result, outcome&&&0
+Gang der&&&corridor&&&0
+Leistung die&&&achievement&&&0
+Leistungsdruck der&&&pressure to achieve&&&0
+Patrone die&&&cartridge&&&0
+Schere die&&&scissors&&&0
+schwänzen&&&to play truant&&&0
+Strafarbeit die&&&punishment, lines&&&0
+versetzt werden&&&to be moved up to the next year group&&&0
+einstellen&&&to employ&&&0
+Fachschule die&&&technical college&&&0
+Hauswirtschaftslehre die&&&home economics&&&0
+Pflichtfach das&&&compulsory subject&&&0
+Sozialkunde die&&&social studies, politics&&&0
+Wahlfach das&&&optional subject&&&0
+Wirtschaftslehre die&&&business studies, economics&&&0
+Arbeitgeber der&&&Employer&&&0
+Besprechung die&&&meeting, discussion&&&0
+Betrieb der&&&business, concern, works&&&0
+kündigen&&&to hand in one's notice; to sack someone&&&0
+vereinbaren&&&to agree, to arrange&&&0

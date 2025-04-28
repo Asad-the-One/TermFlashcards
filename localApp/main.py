@@ -1,5 +1,5 @@
 """
-εεε
+&&&
 
 Issues:
 . File not saving properly after practice
@@ -19,14 +19,14 @@ def getWords(name):
     global words
     f = open(name, "r")
     for i in f:
-        words.append(i.strip().split("εεε"))
+        words.append(i.strip().split("&&&"))
     f.close()
 
 # Update file
 def updateFile(name):
     f = open(name, "w")
     for i in words:
-        f.write(f"{i[0]}εεε{i[1]}εεε{i[2]}\n")
+        f.write(f"{i[0]}&&&{i[1]}&&&{i[2]}\n")
     f.close()
 
 # Create window

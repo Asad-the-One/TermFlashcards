@@ -1,5 +1,5 @@
 """
-εεε
+&&&
 """
 
 from flask import Flask
@@ -10,7 +10,7 @@ from random import randint
 words = []
 f = open("words.txt", "r")
 for i in f:
-    words.append(i.strip().split("εεε"))
+    words.append(i.strip().split("&&&"))
 f.close()
 
 # Create app
